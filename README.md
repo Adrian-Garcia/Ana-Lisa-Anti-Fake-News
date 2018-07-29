@@ -3,7 +3,6 @@ Chatbot for Twitter and Facebook made with Dialogflow that helps the user to con
 
 # Try Ana
 https://bot.dialogflow.com/ana
-
 https://twitter.com/AnaLisaMexico
 
 # Do you want to know more?
