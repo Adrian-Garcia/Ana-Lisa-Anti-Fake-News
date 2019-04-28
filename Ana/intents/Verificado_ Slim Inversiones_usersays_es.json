@@ -1,0 +1,251 @@
+[
+  {
+    "id": "0035b39e-d919-42f0-9150-b7e8ae39af7c",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " reitrará su ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      },
+      {
+        "text": " si gana ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528656653
+  },
+  {
+    "id": "6705f2fb-a010-4584-833c-4acb520023d8",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " y sus ",
+        "userDefined": false
+      },
+      {
+        "text": "inversiones",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      },
+      {
+        "text": " fuera de ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528656653
+  },
+  {
+    "id": "9183e896-be19-4e44-b8b9-0011fc8a73a7",
+    "data": [
+      {
+        "text": "Con ",
+        "userDefined": false
+      },
+      {
+        "text": "la victoria",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " se retirará del ",
+        "userDefined": false
+      },
+      {
+        "text": "mercado",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528656653
+  },
+  {
+    "id": "72d26acf-f90b-476e-a962-35aa3cf3f313",
+    "data": [
+      {
+        "text": "Es cierto que con la ganada de ",
+        "userDefined": false
+      },
+      {
+        "text": "López obrador",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " retirará sus ",
+        "userDefined": false
+      },
+      {
+        "text": "inversiones",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528656653
+  },
+  {
+    "id": "b93ee22a-4e30-409a-b96a-849d320468ae",
+    "data": [
+      {
+        "text": "Si ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " gana ",
+        "userDefined": false
+      },
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " se llevará sus ",
+        "userDefined": false
+      },
+      {
+        "text": "inversiones",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528656653
+  },
+  {
+    "id": "5755eb24-bd97-4c2c-b9f0-eb2f8f9000f7",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " se llevará sus ",
+        "userDefined": false
+      },
+      {
+        "text": "inversiones",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " si gana ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528656653
+  }
+]

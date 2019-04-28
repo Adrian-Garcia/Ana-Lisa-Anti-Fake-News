@@ -1,0 +1,148 @@
+[
+  {
+    "id": "7a50c741-ffaa-4c56-a4e0-8c7acd92b243",
+    "data": [
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " ayudado por ",
+        "userDefined": false
+      },
+      {
+        "text": "EPN",
+        "alias": "EPN",
+        "meta": "@EPN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528319223
+  },
+  {
+    "id": "7139ac4f-945a-4db5-87b3-f4e285be747c",
+    "data": [
+      {
+        "text": "Candidatura de ",
+        "userDefined": false
+      },
+      {
+        "text": "el bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " financiada por ",
+        "userDefined": false
+      },
+      {
+        "text": "EPN",
+        "alias": "EPN",
+        "meta": "@EPN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528319223
+  },
+  {
+    "id": "a5b6ed59-089a-4298-9497-0362c1b29d05",
+    "data": [
+      {
+        "text": "EPN",
+        "alias": "EPN",
+        "meta": "@EPN",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ayuda",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "al bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " en su candidatura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528319223
+  },
+  {
+    "id": "2597b712-dd2b-48c4-be7b-efca2c561f4e",
+    "data": [
+      {
+        "text": "Jaime",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": true
+      },
+      {
+        "text": " le agradece a ",
+        "userDefined": false
+      },
+      {
+        "text": "EPN",
+        "alias": "EPN",
+        "meta": "@EPN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528319223
+  },
+  {
+    "id": "02c6a945-6876-46b2-852c-ba2c15e037db",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "El Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " le agradeció su candidatura independiente a ",
+        "userDefined": false
+      },
+      {
+        "text": "Peña Nieto",
+        "alias": "EPN",
+        "meta": "@EPN",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528319223
+  }
+]

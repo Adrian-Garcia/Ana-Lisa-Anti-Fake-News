@@ -1,0 +1,47 @@
+{
+  "id": "06100f19-6d5a-49dd-92cd-7dadf87d6245",
+  "name": "News: Actualidad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ca21855-111e-4707-b46f-ff049fc65d41",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "El libro Mostrado por Ricardo Anaya \"De frente al futuro\", en el primer debate no existe. Ya que este no está disponible en linea, ni en librerías.",
+            "El programa de resultado electorales se lleva a cabo por el INE. La empresa Scitum, de Carlos Slim solo se dedica a combatir ataques cibernéticos.",
+            "Margarita Zavala anuncia la renuncia a la candidatura de la presidencia en el programa tercer grado",
+            "Estas elecciones presidenciales romeran record en mayor numero de votantes, mayor numero de cargos de elección popular y la mas cara de la historia.",
+            "Estas elecciones, serán las mas caras en la historia. Su costo será de 28 108 527 986 pesos. Cada voto (si se ejerce o no) costará 315 pesos."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528376600,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "f681aaf6-eb30-4c96-9a78-fa36f64e96e7",
+    "data": [
+      {
+        "text": "Sembradíos de maíz",
+        "alias": "Sembradios",
+        "meta": "@Sembradios",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "sierra de Guerrero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378182
+  },
+  {
+    "id": "57efa7af-955c-47b0-b0da-6659fbf7b4b2",
+    "data": [
+      {
+        "text": "Es cierto que no se ",
+        "userDefined": false
+      },
+      {
+        "text": "siembra maíz",
+        "alias": "Sembradios",
+        "meta": "@Sembradios",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Guerrero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378182
+  },
+  {
+    "id": "9c7f7882-8b8a-408a-bf3e-9c1d70ba13b8",
+    "data": [
+      {
+        "text": "Que se ",
+        "userDefined": false
+      },
+      {
+        "text": "siembra",
+        "alias": "Sembradios",
+        "meta": "@Sembradios",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "Sierra de Guerrero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378182
+  },
+  {
+    "id": "0427aa3c-47f7-4815-aa98-3d13aa448e48",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "siembra Maíz",
+        "alias": "Sembradios",
+        "meta": "@Sembradios",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "Sierra de Guerrero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378182
+  }
+]

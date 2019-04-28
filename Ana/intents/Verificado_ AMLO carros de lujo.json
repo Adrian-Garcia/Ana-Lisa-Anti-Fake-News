@@ -1,0 +1,49 @@
+{
+  "id": "657c4d6e-d2b4-4564-b58f-007f4af6018c",
+  "name": "Verificado: AMLO carros de lujo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b68ae87-a880-4df6-9472-a60df09c83a8",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "c65187ea-88e6-4787-9152-03be04903ad6",
+          "required": false,
+          "dataType": "@Lamborghini",
+          "name": "Lamborghini",
+          "value": "$Lamborghini",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ni el hijo de Andrés Manuel López Obrador tiene un Lamborghini Aventador negro, cuyas puertas se abren hacia arriba; ni la esposa del candidato posee un Mercedes Benz blanco, tal y como se ha difundido en una imagen que ha sido compartida cerca de 60 mil veces por usuarios de Facebook."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528210306,
+  "fallbackIntent": false,
+  "events": []
+}

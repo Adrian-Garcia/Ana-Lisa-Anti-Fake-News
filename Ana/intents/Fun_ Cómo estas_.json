@@ -1,0 +1,35 @@
+{
+  "id": "355f48ff-add8-48be-8f79-a7e20999e793",
+  "name": "Fun: Cómo estas?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Estoy muy emocionada! Las elecciones están cada vez más cerca y no se por quien votar... si pudiera hacerlo.",
+            "¡Estoy demasiado contenta! Mucha gente esta preguntando por noticias y eso me pone muy feliz."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528372095,
+  "fallbackIntent": false,
+  "events": []
+}

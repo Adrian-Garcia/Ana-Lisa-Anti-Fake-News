@@ -1,0 +1,124 @@
+[
+  {
+    "id": "9ed745ba-d7a6-45cc-905b-cae6bdc3b87d",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264612
+  },
+  {
+    "id": "1288fc43-532e-43eb-a7d1-04cf88aeeebe",
+    "data": [
+      {
+        "text": "Esposa de Calderon",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "actualidad",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264612
+  },
+  {
+    "id": "58769f4d-2300-4392-99b3-7159ab7c66d4",
+    "data": [
+      {
+        "text": "Por que se salió ",
+        "userDefined": false
+      },
+      {
+        "text": "margarita",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376840
+  },
+  {
+    "id": "59d0d723-42d8-4a93-bf46-f90836ff1d08",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264612
+  },
+  {
+    "id": "321129f0-1cfe-4183-8ceb-671c3a12f6b2",
+    "data": [
+      {
+        "text": "Margarita zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264612
+  }
+]

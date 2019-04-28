@@ -1,0 +1,41 @@
+{
+  "id": "cfa9dc21-3ed0-458c-bbc9-632c9a62e4a0",
+  "name": "Data: Encuestas(Aut.)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fcff3e0f-fe78-4a11-bc8c-56374f35f67d",
+          "required": false,
+          "dataType": "@Encuestas",
+          "name": "Encuestas",
+          "value": "$Encuestas",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "AMLO 43%, Ricardo Anaya 24%, José Meade 16%, Jaime Rodriguez 2%, Margarita Zavala 1%, Nulo/blanco 14%"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528243503,
+  "fallbackIntent": false,
+  "events": []
+}

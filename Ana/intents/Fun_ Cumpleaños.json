@@ -1,0 +1,32 @@
+{
+  "id": "58eef913-3db2-4870-b4fa-15dd4afe2040",
+  "name": "Fun: Cumpleaños",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Mi fecha oficial de salida fue el 6 de junio del 2018."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527213899,
+  "fallbackIntent": false,
+  "events": []
+}

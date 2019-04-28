@@ -1,0 +1,41 @@
+{
+  "id": "1ec954b6-140d-46ab-9a41-61b2c1ea1c73",
+  "name": "Verificado: Programa de Asistencia Nuevo Leon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "581bf175-ff11-4cd3-b8b0-1e4c1a57cafe",
+          "required": false,
+          "dataType": "@Asistencia",
+          "name": "Asistencia",
+          "value": "$Asistencia",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Segun verificado 2018, Nuevo León cuenta con la asistencia de entrega de pasajes para transporte, pago de servicios funerarios, medicina y hospedaje. \n\nhttps://verificado.mx/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378106,
+  "fallbackIntent": false,
+  "events": []
+}

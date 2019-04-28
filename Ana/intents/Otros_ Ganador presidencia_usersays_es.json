@@ -1,0 +1,100 @@
+[
+  {
+    "id": "f81b31c7-90c0-4288-9408-10e95eba60e2",
+    "data": [
+      {
+        "text": "Quien va a ganar las votaciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "c7261171-bd96-448b-93b4-f3f4a390746a",
+    "data": [
+      {
+        "text": "Quien va a ser presidente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "08286bfd-1277-4cd9-b4d6-f86718f83671",
+    "data": [
+      {
+        "text": "Ganador",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Votaciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "b637bcaf-fba1-4642-a4bb-006f7cc3199a",
+    "data": [
+      {
+        "text": "Quien va a ganar las elecciones?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "f41cd3cb-13d6-4e12-9101-0e999ec59b67",
+    "data": [
+      {
+        "text": "Dime quien es el ",
+        "userDefined": false
+      },
+      {
+        "text": "ganador",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de las elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "8860e302-e9a6-4d39-b443-d8935e7c4457",
+    "data": [
+      {
+        "text": "Próximo presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  },
+  {
+    "id": "e43a88d4-6c4e-4d12-9b23-edac92d9dcbc",
+    "data": [
+      {
+        "text": "Cual va a ser el proximo presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211448
+  }
+]

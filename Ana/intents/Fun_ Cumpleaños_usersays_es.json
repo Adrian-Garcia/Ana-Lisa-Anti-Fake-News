@@ -1,0 +1,92 @@
+[
+  {
+    "id": "81bb2514-cb27-47c4-ac1f-14da9a485fae",
+    "data": [
+      {
+        "text": "Cumples ",
+        "userDefined": false
+      },
+      {
+        "text": "años",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213899
+  },
+  {
+    "id": "b170121c-672a-4fcb-8cac-89882f024b6f",
+    "data": [
+      {
+        "text": "Que día fuiste programada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213681
+  },
+  {
+    "id": "b41be5e6-2ed2-4814-a977-d042199d03d1",
+    "data": [
+      {
+        "text": "Cuando es tu cumpleaños?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213681
+  },
+  {
+    "id": "949b1925-e1ab-4ebe-8db5-f82c2e618169",
+    "data": [
+      {
+        "text": "Cuando puedo desearte feliz cumpleaños?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213681
+  },
+  {
+    "id": "cf3616a4-dbb2-4e4b-920a-9ea9f8a0add9",
+    "data": [
+      {
+        "text": "Que día naciste?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213681
+  },
+  {
+    "id": "05f572e1-8f45-4fb9-96c2-191b8907a65b",
+    "data": [
+      {
+        "text": "Cuando cumples ",
+        "userDefined": false
+      },
+      {
+        "text": "años",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213899
+  }
+]

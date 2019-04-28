@@ -1,0 +1,50 @@
+{
+  "id": "1f755208-046e-4699-ba2e-03e8007fd05b",
+  "name": "News: Zavala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be35ee44-2e70-41f0-866d-f664ee9c8069",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        },
+        {
+          "id": "722c176f-531d-425e-b721-f8feca158423",
+          "required": false,
+          "dataType": "@Zavala",
+          "name": "Zavala",
+          "value": "$Zavala",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Margarita Zavala anuncia la renuncia a la candidatura de la presidencia en el programa tercer grado"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528376840,
+  "fallbackIntent": false,
+  "events": []
+}

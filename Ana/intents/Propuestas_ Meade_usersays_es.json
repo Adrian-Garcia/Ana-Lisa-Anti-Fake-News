@@ -1,0 +1,138 @@
+[
+  {
+    "id": "86e16e2a-5711-401e-9568-e93730f3efd5",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "propone",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527362830
+  },
+  {
+    "id": "c02c9019-4327-426e-88e7-68e5c45b3acb",
+    "data": [
+      {
+        "text": "Cuales son las ",
+        "userDefined": false
+      },
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de Antonio ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527362830
+  },
+  {
+    "id": "ce23bb04-ce82-4e91-b4da-22a15f6e6f8e",
+    "data": [
+      {
+        "text": "Hablame de las ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527362830
+  },
+  {
+    "id": "5e7f9b18-1e23-421f-a0e2-fc70cbe1efdf",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de Toño ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527362830
+  },
+  {
+    "id": "12f34293-3af8-4f62-94d6-cda2e162ed3b",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527362830
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "c87a5501-c324-4911-8ce0-7af2ea0692e3",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Beatriz Gutiérrez Muller",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "c84f1e73-a38d-4603-bc03-45792bebac98",
+    "data": [
+      {
+        "text": "Beatriz Muller",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "familia",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "90169def-f0c3-4033-b992-13df5c6dc644",
+    "data": [
+      {
+        "text": "Esposa de AMLO",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "familiar",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " de nazis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "ff19abc1-4824-48e4-82ec-9665552c3629",
+    "data": [
+      {
+        "text": "Esposa de AMLO",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " es hija ",
+        "userDefined": false
+      },
+      {
+        "text": "de un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " general ",
+        "userDefined": false
+      },
+      {
+        "text": "Nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "9ba5f6c5-307c-4c79-b88e-ba46553abd57",
+    "data": [
+      {
+        "text": "Muller",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "03b7af71-0bfe-497c-acca-0b0e083dd52f",
+    "data": [
+      {
+        "text": "Beatriz",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  },
+  {
+    "id": "145e01b5-a45b-47b8-ade1-03233a80d4bf",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Beatriz Gutiérrez",
+        "alias": "BeatrizGutierrez",
+        "meta": "@BeatrizGutierrez",
+        "userDefined": false
+      },
+      {
+        "text": " Muller, ",
+        "userDefined": false
+      },
+      {
+        "text": "esposa de AMLO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", es ",
+        "userDefined": false
+      },
+      {
+        "text": "nazi",
+        "alias": "Nazi",
+        "meta": "@Nazi",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528660092
+  }
+]

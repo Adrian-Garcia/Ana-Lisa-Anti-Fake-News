@@ -1,0 +1,41 @@
+{
+  "id": "012f6290-66cc-4c68-8bce-c0cb0d3091f5",
+  "name": "Verificado: Aumento Deportaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73cd5b22-74d8-4c59-8cb6-7f7af2854217",
+          "required": false,
+          "dataType": "@Deportaciones",
+          "name": "Deportaciones",
+          "value": "$Deportaciones",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Verificado 2018 comenta que las repatriaciones aumentaron un 40%. Estos datos incluyen deportaciones y repatriaciones voluntarias."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377357,
+  "fallbackIntent": false,
+  "events": []
+}

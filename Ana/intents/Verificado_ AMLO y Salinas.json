@@ -1,0 +1,57 @@
+{
+  "id": "33b61c62-ba30-4b31-9083-1a895870f685",
+  "name": "Verificado: AMLO y Salinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e71c044f-2cc1-45a9-848d-47d2a9eac19a",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "e5642d41-9817-48ca-bbd6-4ebaf5ee4727",
+          "required": false,
+          "dataType": "@Salinas",
+          "name": "Salinas",
+          "value": "$Salinas",
+          "isList": false
+        },
+        {
+          "id": "72a31d01-3ad8-4155-bd7b-ffa5eb5b1c4e",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO1",
+          "value": "$AMLO1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La foto de AMLO y Carlos Salinas es una mezcla de una foto de AMLO con Bill Clinton en 1997 y otra de Salinas con Otto Granados y José Carreño en 1992."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528593220,
+  "fallbackIntent": false,
+  "events": []
+}

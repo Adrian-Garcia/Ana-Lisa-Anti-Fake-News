@@ -1,0 +1,54 @@
+{
+  "id": "3de814b3-07e7-4e3a-8d65-4d6c85d7040f",
+  "name": "News: Anaya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "596bf574-816a-4b83-bbe7-d3fb8754c398",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "3c187f21-4af3-43ad-8587-dc3ae65a089b",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Durante el primer debate, el candidato, Ricardo Anaya, aseguró que Andrés Manuel “propuso una amnistía” comparándolo con el caso fallido de Colombia. \"Plantear el perdón a los criminales es una locura que generaría enorme violencia en el país\", mencionó Ricardo.",
+            "Ricardo Anaya toma el segundo lugar en las encuestas con un 24%.",
+            "Ricardo Anaya acusa a Andrés Manuel López Obrador de militar en el PRI en 1988.",
+            "AMLO y Anaya tienen fuertes discusiones en el debate y se acusan de mentirosos en el segundo debate"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527267654,
+  "fallbackIntent": false,
+  "events": []
+}

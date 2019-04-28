@@ -1,0 +1,57 @@
+{
+  "id": "ccd98e49-3dfa-41d6-976a-e6960d5b2765",
+  "name": "Verificado: Bronco ayudado por EPN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa5acc72-6bbe-4af5-9285-2a48170e29fa",
+          "required": false,
+          "dataType": "@Bronco",
+          "name": "Bronco",
+          "value": "$Bronco",
+          "isList": false
+        },
+        {
+          "id": "398f06ea-8aeb-4270-b388-e5b489571cdc",
+          "required": false,
+          "dataType": "@EPN",
+          "name": "EPN",
+          "value": "$EPN",
+          "isList": false
+        },
+        {
+          "id": "5188c987-47b2-4d1e-8c58-4047bf4412d1",
+          "required": false,
+          "dataType": "@Donaciones",
+          "name": "Donaciones",
+          "value": "$Donaciones",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El Bronco agradeció a Peña Nieto cuando consiguió su candidatura independiente a la gubernatura de Nuevo León en el 2015. El video que circula actualmente no corresponde al proceso del 2018"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377393,
+  "fallbackIntent": false,
+  "events": []
+}

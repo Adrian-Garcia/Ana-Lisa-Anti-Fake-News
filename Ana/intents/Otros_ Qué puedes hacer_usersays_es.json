@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1961a9df-050d-4980-bc20-f301f07ce1a2",
+    "data": [
+      {
+        "text": "Qué te puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "preguntar",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "71e70d2a-49d7-42ae-a969-6a1d04a18a82",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "haces",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "e7ea3580-7157-4483-a600-7ed346fdc219",
+    "data": [
+      {
+        "text": "¿Qué haces para ",
+        "userDefined": false
+      },
+      {
+        "text": "vivir",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "43613853-1f9c-40d3-807d-7df433503781",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "puedes hacer",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527361456
+  },
+  {
+    "id": "104f747c-ee40-4a64-b4b0-1412043af6a6",
+    "data": [
+      {
+        "text": "Que puedes ",
+        "userDefined": false
+      },
+      {
+        "text": "resolver",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "02014a6f-6e4f-402a-894e-531f5c0ab251",
+    "data": [
+      {
+        "text": "¿Para qué te ",
+        "userDefined": false
+      },
+      {
+        "text": "crearon",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "d4fb8dc4-0a2a-4c90-b1a8-31bb25075e3f",
+    "data": [
+      {
+        "text": "En qué ",
+        "userDefined": false
+      },
+      {
+        "text": "trabajas",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  },
+  {
+    "id": "6c0723ed-554e-45b6-8457-00f9223478b3",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5ff8a70-d476-41dc-86dd-a9ed3ae6b42f",
+    "data": [
+      {
+        "text": "De qué eres ",
+        "userDefined": false
+      },
+      {
+        "text": "capaz",
+        "alias": "Capacidad",
+        "meta": "@Capacidad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527361456
+  }
+]

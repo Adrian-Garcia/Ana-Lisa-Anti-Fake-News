@@ -1,0 +1,168 @@
+[
+  {
+    "id": "3bdafdc8-ad20-4690-a1fe-85f3cc72dbda",
+    "data": [
+      {
+        "text": "A donde fueron a parar los ",
+        "userDefined": false
+      },
+      {
+        "text": "recursos",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " del terremoto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "0f7a696a-4784-408e-93f8-58bbd4fc2f02",
+    "data": [
+      {
+        "text": "Qué pasó con mi ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "cd8cc89b-26a9-46a1-b51f-8c3c4f66e7c6",
+    "data": [
+      {
+        "text": "Fuerza Mexico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "5ea2ac5a-7b1f-4896-96ac-a868094b58e8",
+    "data": [
+      {
+        "text": "Qué sucedió con el ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " del terremoto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "d13faf55-d9c9-4491-bae0-8e992716aef7",
+    "data": [
+      {
+        "text": "Qué sucedió con el ",
+        "userDefined": false
+      },
+      {
+        "text": "apoyo",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " a los damnificados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "7625dceb-3078-429f-87fe-749744d61eab",
+    "data": [
+      {
+        "text": "Qué pasó con el ",
+        "userDefined": false
+      },
+      {
+        "text": "apoyo",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " al DF?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "ffd4bc0f-2f7f-4ba9-a368-1b808eda2bc6",
+    "data": [
+      {
+        "text": "Qué han ",
+        "userDefined": false
+      },
+      {
+        "text": "donado",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " los partidos politicos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  },
+  {
+    "id": "24e967e3-db94-4da6-98d3-c5bc39604f3c",
+    "data": [
+      {
+        "text": "¿Los partidos han ",
+        "userDefined": false
+      },
+      {
+        "text": "donado",
+        "alias": "Donaciones",
+        "meta": "@Donaciones",
+        "userDefined": false
+      },
+      {
+        "text": " lo que dijeron a los damnificados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310861
+  }
+]

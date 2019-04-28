@@ -1,0 +1,203 @@
+[
+  {
+    "id": "bce8cf0c-ad7b-48a4-a71f-c1c3217509b1",
+    "data": [
+      {
+        "text": "Es cierto que la responsable de la caída del ",
+        "userDefined": false
+      },
+      {
+        "text": "Colegio Rébsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": true
+      },
+      {
+        "text": " es de ",
+        "userDefined": false
+      },
+      {
+        "text": "sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  },
+  {
+    "id": "672e05fa-35d8-4a3f-ae5d-65144119106c",
+    "data": [
+      {
+        "text": "Colegio Rebsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": false
+      },
+      {
+        "text": " derrumbado por el ",
+        "userDefined": false
+      },
+      {
+        "text": "sismo",
+        "alias": "Sismo",
+        "meta": "@Sismo",
+        "userDefined": false
+      },
+      {
+        "text": " y por ",
+        "userDefined": false
+      },
+      {
+        "text": "Claudia Sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  },
+  {
+    "id": "6e6bfd16-2994-48d5-b5ef-a04c79daeaeb",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "Colegio rebsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": false
+      },
+      {
+        "text": " tirado por ",
+        "userDefined": false
+      },
+      {
+        "text": "Sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  },
+  {
+    "id": "dcd19d55-b864-4f7e-a863-77d3b6e99b9b",
+    "data": [
+      {
+        "text": "Claudia Sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": false
+      },
+      {
+        "text": " derrumbó el ",
+        "userDefined": false
+      },
+      {
+        "text": "colegio Rebsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  },
+  {
+    "id": "667e7b39-adf1-466c-b808-7b42b7ef62db",
+    "data": [
+      {
+        "text": "El colgeio ",
+        "userDefined": false
+      },
+      {
+        "text": "Rebsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": false
+      },
+      {
+        "text": " se derrumbó gracias a ",
+        "userDefined": false
+      },
+      {
+        "text": "Sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  },
+  {
+    "id": "61a04ec0-cb45-44bc-97ae-4981f4a2e38b",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Claudia Sheinbaum",
+        "alias": "Sheinbaum",
+        "meta": "@Sheinbaum",
+        "userDefined": false
+      },
+      {
+        "text": " es responsable del derrumbe del ",
+        "userDefined": false
+      },
+      {
+        "text": "Colegio Rébsamen",
+        "alias": "Colegio",
+        "meta": "@Colegio",
+        "userDefined": false
+      },
+      {
+        "text": " tras el ",
+        "userDefined": false
+      },
+      {
+        "text": "sismo",
+        "alias": "Sismo",
+        "meta": "@Sismo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "del 19 de septiembre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600502
+  }
+]

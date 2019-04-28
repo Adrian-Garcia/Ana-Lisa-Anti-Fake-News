@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2a43f2c3-946a-4a79-847c-be7e6cfe4186",
+    "data": [
+      {
+        "text": "Cuando son las elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524345230
+  },
+  {
+    "id": "5d5df312-c47f-4c7a-9d3d-e54e33cf0a52",
+    "data": [
+      {
+        "text": "Fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524345230
+  },
+  {
+    "id": "afa1ea70-1589-425f-82e8-a016dbc17eb0",
+    "data": [
+      {
+        "text": "Cuando son las votaciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524345230
+  },
+  {
+    "id": "e7d3e99d-1e22-4ed3-8d25-f981922e57f7",
+    "data": [
+      {
+        "text": "Qué día son las elecciones?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524345230
+  },
+  {
+    "id": "5a9ef155-0166-4f2f-bbd1-91f585a5359f",
+    "data": [
+      {
+        "text": "Cuando me toca votar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1524345230
+  }
+]

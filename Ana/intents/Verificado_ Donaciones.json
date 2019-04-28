@@ -1,0 +1,40 @@
+{
+  "id": "bcd15733-230f-46dd-89c8-7d255ec6f09e",
+  "name": "Verificado: Donaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3baf9a57-5281-4483-86e3-220e1777ce8e",
+          "dataType": "@Donaciones",
+          "name": "Donaciones",
+          "value": "$Donaciones",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Cinco partidos políticos y la excandidata independiente a la Presidencia, Margarita Zavala, han aportado más de 500 millones de pesos para damnificados desde que ocurrieron los sismos de septiembre pasado, dinero que ha salido, según informó el INE, de los recursos que se destinó para su gasto ordinario. Morena crea un fideicomiso privado."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528310861,
+  "fallbackIntent": false,
+  "events": []
+}

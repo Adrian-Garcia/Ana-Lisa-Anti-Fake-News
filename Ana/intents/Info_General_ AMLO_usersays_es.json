@@ -1,0 +1,187 @@
+[
+  {
+    "id": "6856f811-2fc6-4a48-bd85-10c2805dc918",
+    "data": [
+      {
+        "text": "Platicame de ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "5a3e67b7-3e75-48c1-96df-2e58652c1247",
+    "data": [
+      {
+        "text": "Historia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "047b0289-b8f1-4874-b3a1-7967c6933806",
+    "data": [
+      {
+        "text": "Dame información de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "535301c0-b38e-441e-a3da-cf9e50d6e8cf",
+    "data": [
+      {
+        "text": "Qué Significa ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "d3e54d95-ed83-46fa-a78a-c16d4d102968",
+    "data": [
+      {
+        "text": "MORENA",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "a56bba5a-e782-44a4-9e22-6e8a45284659",
+    "data": [
+      {
+        "text": "Partido ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "018cdba4-a5be-424f-a9c6-203225fdbafc",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "33bc0693-5d85-4b32-b18c-bb573de8e228",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "43d8eda3-d008-41a5-bba3-efd7ce290254",
+    "data": [
+      {
+        "text": "Que es ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  },
+  {
+    "id": "e684e550-4dd2-417c-a211-78c4c28af084",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527635443
+  }
+]

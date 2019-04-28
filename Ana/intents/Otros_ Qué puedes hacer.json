@@ -1,0 +1,43 @@
+{
+  "id": "725e8d2c-14ef-4365-ad92-7ea55f58c860",
+  "name": "Otros: Qué puedes hacer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "994658a8-0613-4bf9-a4a3-3776cdb61cce",
+          "dataType": "@Capacidad",
+          "name": "Capacidad",
+          "value": "$Capacidad",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Yo puedo informarte sobre los candidatos a la presidencia así como mantenerte informado con noticias recientes y resolver dudas que tengas con respecto a esta elección. ¡Anímate, pregúntame algo!",
+            "Me han entrenado para procurar que tu voto sea informado. Cualquier cosa que quieras saber de las elecciones puedes preguntarme con toda confianza."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527361456,
+  "fallbackIntent": false,
+  "events": []
+}

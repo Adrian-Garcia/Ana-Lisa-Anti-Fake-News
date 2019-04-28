@@ -1,0 +1,88 @@
+[
+  {
+    "id": "f06ae840-7515-46a4-a87c-ea98c790ff45",
+    "data": [
+      {
+        "text": "Es verdad que ",
+        "userDefined": false
+      },
+      {
+        "text": "Nestora Salgadó",
+        "alias": "NestoraSalgado",
+        "meta": "@NestoraSalgado",
+        "userDefined": true
+      },
+      {
+        "text": " está involucrado en el ",
+        "userDefined": false
+      },
+      {
+        "text": "secuestro de menoes de Edad",
+        "alias": "NestoraSalgado",
+        "meta": "@NestoraSalgado",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527006686
+  },
+  {
+    "id": "049a27af-9bc9-4004-9235-e4e09834d5ff",
+    "data": [
+      {
+        "text": "Senadora Plurinominal por Morena",
+        "alias": "NestoraSalgado",
+        "meta": "@NestoraSalgado",
+        "userDefined": true
+      },
+      {
+        "text": " secuestró a menores de edad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527006686
+  },
+  {
+    "id": "52087c74-43a9-4d9e-b92c-2b828f10d182",
+    "data": [
+      {
+        "text": "Nestora Salgado",
+        "alias": "NestoraSalgado",
+        "meta": "@NestoraSalgado",
+        "userDefined": true
+      },
+      {
+        "text": " secuestró menores de edad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527006686
+  },
+  {
+    "id": "909e5db5-5cbb-4769-8c7f-4fd782bbb22a",
+    "data": [
+      {
+        "text": "Salgado",
+        "alias": "NestoraSalgado",
+        "meta": "@NestoraSalgado",
+        "userDefined": true
+      },
+      {
+        "text": " es secuestradora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527006686
+  }
+]

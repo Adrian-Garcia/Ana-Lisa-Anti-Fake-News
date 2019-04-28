@@ -1,0 +1,114 @@
+[
+  {
+    "id": "03768fd8-70bd-4ab5-ba9b-77c665a94e59",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363601
+  },
+  {
+    "id": "073ca69b-2630-4265-ad44-93e92468590e",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": false
+      },
+      {
+        "text": " tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377463
+  },
+  {
+    "id": "cc309289-f0e2-4e81-9bc7-c110b760666d",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363601
+  },
+  {
+    "id": "8ea29114-a3cc-459f-90c2-3e12f9e09783",
+    "data": [
+      {
+        "text": "Cuales son las ",
+        "userDefined": false
+      },
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363601
+  }
+]

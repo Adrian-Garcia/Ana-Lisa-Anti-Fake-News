@@ -1,0 +1,41 @@
+{
+  "id": "87434f9f-6893-4b49-8c36-5d9a18117906",
+  "name": "Info_General: Bronco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46bed0a4-3335-4a52-a31d-87aba1d55c63",
+          "required": false,
+          "dataType": "@Bronco",
+          "name": "Bronco",
+          "value": "$Bronco",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Jaime Heliodoro Rodríguez Calderón, político e ingeniero agrónomo, es candidato independiente a la presidencia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527634865,
+  "fallbackIntent": false,
+  "events": []
+}

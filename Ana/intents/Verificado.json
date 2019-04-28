@@ -1,0 +1,41 @@
+{
+  "id": "b5ed1d81-df83-4f9d-adeb-cd7e6738251e",
+  "name": "Verificado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "617af5d3-ccf4-43cd-b4fa-3eaba4e963cf",
+          "required": false,
+          "dataType": "@Verificado",
+          "name": "Verificado",
+          "value": "$Verificado",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "#Verificado2018 es un proyecto colaborativo que reúne a más de 60 medios, organizaciones de la sociedad civil y universidades, que busca servir a los electores y darles herramientas para discernir qué información es cierta o falsa, sin importar su origen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377592,
+  "fallbackIntent": false,
+  "events": []
+}

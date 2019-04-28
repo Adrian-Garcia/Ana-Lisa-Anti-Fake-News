@@ -1,0 +1,450 @@
+[
+  {
+    "id": "f04dfd4b-d8dd-4ddb-a9eb-c1db8f325ddf",
+    "data": [
+      {
+        "text": "Es veridica la foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sin ropa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "e4d9f71c-f5f5-41a0-b478-97ee66880e12",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "camisa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mujer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  },
+  {
+    "id": "39dc7422-f537-42b2-9f60-448e89ee14ab",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " con mujer en el ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "3eb53119-e7a9-4d63-82e1-01fab48be400",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "11ba4e0b-c5c7-4952-8ed9-e894ea9179ca",
+    "data": [
+      {
+        "text": "Estaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      },
+      {
+        "text": " sin usar ",
+        "userDefined": false
+      },
+      {
+        "text": "ropa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  },
+  {
+    "id": "b336fa88-b6a1-405b-877a-3d7c78dfe049",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "camisa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "0fa14c26-0f27-43e6-93db-507ffaf8fcb8",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "28b91264-b17d-4701-986f-ede9af0487f8",
+    "data": [
+      {
+        "text": "Candidato del pan",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sin ropa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528340171
+  },
+  {
+    "id": "3f2f359b-b719-4e15-b275-3654116c2f73",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sin ropa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  },
+  {
+    "id": "ab8646c5-8d8e-4754-bdc0-53c145a4c6d1",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "desnudo",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "club",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  },
+  {
+    "id": "312d7558-4b92-4437-8d67-83b1ed787034",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " no tenía ",
+        "userDefined": false
+      },
+      {
+        "text": "playera",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  },
+  {
+    "id": "63d1af02-64fc-4615-bd8e-015650b8ac41",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " andaba sin ",
+        "userDefined": false
+      },
+      {
+        "text": "camisa",
+        "alias": "Camisa",
+        "meta": "@Camisa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "antro",
+        "alias": "Antro",
+        "meta": "@Antro",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377190
+  }
+]

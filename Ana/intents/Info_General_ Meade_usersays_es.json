@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1adc97e6-1c04-4f4e-86f8-2293d190a0b3",
+    "data": [
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "62fdbafb-25a2-4d74-a13c-bebb47840a89",
+    "data": [
+      {
+        "text": "Háblame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "1e8365cb-3bd2-4096-84af-0f618d1e35e9",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "23a9b1fe-c9cc-4980-b51f-fc9645f6dc8f",
+    "data": [
+      {
+        "text": "Que significa ",
+        "userDefined": false
+      },
+      {
+        "text": "pri",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527634574
+  },
+  {
+    "id": "991c49c4-337f-4553-8e33-a2b808372645",
+    "data": [
+      {
+        "text": "Platícame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  }
+]

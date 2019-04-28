@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Lapiz",
+    "synonyms": [
+      "Lapiz",
+      "Grafito"
+    ]
+  },
+  {
+    "value": "Pluma",
+    "synonyms": [
+      "Pluma",
+      "Boligrafo",
+      "Lapicero"
+    ]
+  },
+  {
+    "value": "Plumon",
+    "synonyms": [
+      "Plumon",
+      "Permanente",
+      "Plumon permanente",
+      "Plumón"
+    ]
+  },
+  {
+    "value": "lápices",
+    "synonyms": [
+      "lápices"
+    ]
+  },
+  {
+    "value": "lapices",
+    "synonyms": [
+      "lapices"
+    ]
+  }
+]

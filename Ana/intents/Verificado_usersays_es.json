@@ -1,0 +1,166 @@
+[
+  {
+    "id": "9ce9fb20-00e3-4839-bcab-433a3b61cb7c",
+    "data": [
+      {
+        "text": "Quiero saber sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado 2018",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "24b2c5dd-e03b-41b4-ad73-379dfee175ab",
+    "data": [
+      {
+        "text": "Dime sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "d2d99a5c-583a-4a9b-aa62-ace41042be56",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado.mx",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377592
+  },
+  {
+    "id": "5dfd837a-dcd2-45cb-a5c9-27e23388ae1a",
+    "data": [
+      {
+        "text": "Quienes son ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "14de1246-8914-4ef2-84b4-4bbf5b5fa999",
+    "data": [
+      {
+        "text": "¿Cual es el equipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "Verificado",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "94db6730-fd90-4554-853f-38c1354d4bce",
+    "data": [
+      {
+        "text": "Quiénes integran ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado 2018",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "cd9b9552-850e-417d-b5e4-17928cbb8d91",
+    "data": [
+      {
+        "text": "Qué hace ",
+        "userDefined": false
+      },
+      {
+        "text": "verificado",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  },
+  {
+    "id": "853221f2-334b-4d16-b017-0f64fcc91cd7",
+    "data": [
+      {
+        "text": "¿Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "Verificado",
+        "alias": "Verificado",
+        "meta": "@Verificado",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341845
+  }
+]

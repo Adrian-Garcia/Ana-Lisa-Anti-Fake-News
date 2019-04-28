@@ -1,0 +1,317 @@
+[
+  {
+    "id": "04bf091f-bf7d-4d14-9de4-189f6ada9041",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Diego Fernández de Cevallos",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": true
+      },
+      {
+        "text": " acusó a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "lavado de dinero",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528594184
+  },
+  {
+    "id": "5a98f0c0-9f7a-4805-84f6-26a6ee894b89",
+    "data": [
+      {
+        "text": "Cevallos",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": true
+      },
+      {
+        "text": " acusa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "lavar dinero",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  },
+  {
+    "id": "dd221fe0-e59b-412c-93fa-8e26d64115ff",
+    "data": [
+      {
+        "text": "Diego Fernandez",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de ceballos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Lavado de dinero",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  },
+  {
+    "id": "8ab4d5e2-8a64-4258-8064-1fbba6db653a",
+    "data": [
+      {
+        "text": "Es correcto que a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " lo acusa ",
+        "userDefined": false
+      },
+      {
+        "text": "Diego Fernandez",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de Cevallos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " por ",
+        "userDefined": false
+      },
+      {
+        "text": "lavado",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  },
+  {
+    "id": "9a602af5-5270-44ea-9df7-36183fb94ff4",
+    "data": [
+      {
+        "text": "El jefe",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": false
+      },
+      {
+        "text": " acusa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "lavar",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      },
+      {
+        "text": " dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  },
+  {
+    "id": "6afdafbc-4dcd-47d8-a2d0-8018b3c43d5e",
+    "data": [
+      {
+        "text": "Se le acusa a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "robo",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " por parte de ",
+        "userDefined": false
+      },
+      {
+        "text": "Diego Fernandez",
+        "alias": "DiegoFernandez",
+        "meta": "@DiegoFernandez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  },
+  {
+    "id": "c97c08a6-2831-4afc-8829-d727a3c6eec8",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " es acusado de ",
+        "userDefined": false
+      },
+      {
+        "text": "lavado de dinero",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594184
+  }
+]

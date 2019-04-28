@@ -1,0 +1,57 @@
+{
+  "id": "8e59aa18-8584-4acd-9364-a799a283009a",
+  "name": "Verificado: Massive Caller",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4da35bb-501a-44db-8a71-d15909406001",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "d9796655-5702-4ec1-91c4-94eb3b3b747c",
+          "required": false,
+          "dataType": "@MassiveCaller",
+          "name": "MassiveCaller",
+          "value": "$MassiveCaller",
+          "isList": false
+        },
+        {
+          "id": "937f6ef0-2494-4161-b748-3f671f1af355",
+          "required": false,
+          "dataType": "@Perdida",
+          "name": "Perdida",
+          "value": "$Perdida",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La campaña de Ricardo Anaya contrató a la encuestadora Massive Caller para encuestas de uso interno de la campaña, las cuales son diferentes a las encuestas que la empresa publica en su aplicación móvil."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528348258,
+  "fallbackIntent": false,
+  "events": []
+}

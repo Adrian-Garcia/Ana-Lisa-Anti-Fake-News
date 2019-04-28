@@ -1,0 +1,156 @@
+[
+  {
+    "id": "aebc6b5c-59f1-49cf-b8c1-24a5428510de",
+    "data": [
+      {
+        "text": "Por qué salió ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "96b25af4-19b5-46e8-978d-b69598ed2961",
+    "data": [
+      {
+        "text": "Propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "11d31623-e89a-465d-a19c-5a13eae27be9",
+    "data": [
+      {
+        "text": "Candidata mujer",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "a31bb6e4-4bf4-446a-9172-73a710d8855a",
+    "data": [
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "4279d33b-af6e-40c6-8c68-eef69379344b",
+    "data": [
+      {
+        "text": "Noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "5619db78-9d47-4440-820a-f6ccceb63efb",
+    "data": [
+      {
+        "text": "Noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527627039
+  },
+  {
+    "id": "02238a57-4e3a-4e52-8849-42c0db357c57",
+    "data": [
+      {
+        "text": "Información de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "a8005e8b-31a2-4517-95bf-f57c1ddc1090",
+    "data": [
+      {
+        "text": "Quien es ",
+        "userDefined": false
+      },
+      {
+        "text": "margarita zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527627039
+  },
+  {
+    "id": "12ff87d2-a557-4bb5-8117-61b876c1e4de",
+    "data": [
+      {
+        "text": "Margarita Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527627039
+  }
+]

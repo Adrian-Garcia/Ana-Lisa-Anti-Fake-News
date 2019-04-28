@@ -1,0 +1,245 @@
+[
+  {
+    "id": "89c326e1-8a24-4050-ae65-527233a6ec6f",
+    "data": [
+      {
+        "text": "Ine",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": " dejará al ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528346715
+  },
+  {
+    "id": "1b2a87c8-b3c8-4832-ab32-cdd6e5120557",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " va a controlar el ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528346715
+  },
+  {
+    "id": "ad2ceeb4-503c-4e99-a110-211f6087fa79",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " opera ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528346715
+  },
+  {
+    "id": "a3cfb9f0-1c80-4a09-adbf-76e2ccdf073a",
+    "data": [
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528346715
+  },
+  {
+    "id": "69b4fc24-38db-4afc-a344-236a9a00abf8",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "empresa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "SLIM",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " se encargará del ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378281
+  },
+  {
+    "id": "3cbd5b6a-d43b-4073-8fac-ab038103c935",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " operará el ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528346715
+  },
+  {
+    "id": "790581ad-d49d-4d0f-b168-5f43e0771ffa",
+    "data": [
+      {
+        "text": "¿El ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": " contrató a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "empresa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Slim",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " para operar el ",
+        "userDefined": false
+      },
+      {
+        "text": "PREP",
+        "alias": "PREP",
+        "meta": "@PREP",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378281
+  }
+]

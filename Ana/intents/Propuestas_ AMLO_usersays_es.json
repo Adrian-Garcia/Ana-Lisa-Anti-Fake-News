@@ -1,0 +1,138 @@
+[
+  {
+    "id": "4fd178d7-542b-4b1b-86f3-2b33922756fe",
+    "data": [
+      {
+        "text": "Cuales son las ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363570
+  },
+  {
+    "id": "bcfd1a2f-19ee-4a29-9842-34c89cc41868",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "propone",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrés Manuel?",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363570
+  },
+  {
+    "id": "decdee9e-63b6-4826-b20b-121a4cce2ef6",
+    "data": [
+      {
+        "text": "Muestrame las ",
+        "userDefined": false
+      },
+      {
+        "text": "Porpuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363570
+  },
+  {
+    "id": "1566c611-01ec-498e-babc-2360cdcb803e",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363570
+  },
+  {
+    "id": "3e91aae3-3dca-4cba-b46d-66196565de4f",
+    "data": [
+      {
+        "text": "Hablame de las ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "López Obrador",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363570
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "id": "7559a4b4-7f67-4c2b-ad4b-c8e481a66f62",
+    "data": [
+      {
+        "text": "Falsedades",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": false
+      },
+      {
+        "text": " en los debates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310561
+  },
+  {
+    "id": "52d74ebc-d17c-43a2-a013-aa550ca5f01b",
+    "data": [
+      {
+        "text": "Que fue ",
+        "userDefined": false
+      },
+      {
+        "text": "falso",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en el segundo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377438
+  },
+  {
+    "id": "dc8b5963-3c0c-4fa6-b508-a3a251adfdd5",
+    "data": [
+      {
+        "text": "En que ",
+        "userDefined": false
+      },
+      {
+        "text": "mintieron",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": true
+      },
+      {
+        "text": " los candidatos en el debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310561
+  },
+  {
+    "id": "f068dd7c-e232-4cc5-91e8-2b7ceaae032e",
+    "data": [
+      {
+        "text": "Mentiras",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": false
+      },
+      {
+        "text": " de los debates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310561
+  },
+  {
+    "id": "aa2b1c03-6ddb-4d52-92fd-a7346619bcb6",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "datos falsos",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": true
+      },
+      {
+        "text": " se mencionaron?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528310561
+  },
+  {
+    "id": "385381e1-dabd-488f-85c4-29ce3877e72f",
+    "data": [
+      {
+        "text": "Cuales fueron las ",
+        "userDefined": false
+      },
+      {
+        "text": "mentiras",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "primer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377438
+  },
+  {
+    "id": "7487afed-5941-4071-9ebd-01e77fd4108c",
+    "data": [
+      {
+        "text": "¿En qué ",
+        "userDefined": false
+      },
+      {
+        "text": "mientieron",
+        "alias": "Mentiras",
+        "meta": "@Mentiras",
+        "userDefined": true
+      },
+      {
+        "text": " los candidatos sobre el tema de Seguridad durante ",
+        "userDefined": false
+      },
+      {
+        "text": "el primer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377438
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "e758b5d8-ad68-48e3-986a-e34e9060aa23",
+    "data": [
+      {
+        "text": "¿Cómo has ",
+        "userDefined": false
+      },
+      {
+        "text": "estado?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212453
+  },
+  {
+    "id": "c5f29f51-b46c-4caa-9bce-b6ab5fac358c",
+    "data": [
+      {
+        "text": "Como te encuentras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372095
+  },
+  {
+    "id": "9b7e24cf-cac5-4c1c-9b93-dc92ad993692",
+    "data": [
+      {
+        "text": "Cómo estás???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372095
+  },
+  {
+    "id": "6ddc205c-7130-40dc-b38a-a49b852892d7",
+    "data": [
+      {
+        "text": "Cómo estas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372095
+  },
+  {
+    "id": "ce3e03c5-b500-4d72-add3-bd8630cb6a67",
+    "data": [
+      {
+        "text": "Como estas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372095
+  },
+  {
+    "id": "c48c37f9-3a8c-4c14-81fe-9edee31166fe",
+    "data": [
+      {
+        "text": "¿Qué me cuentas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212453
+  },
+  {
+    "id": "16e5d33a-ccec-47e0-b8d9-a88043387bc2",
+    "data": [
+      {
+        "text": "¿Cómo te sientes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212453
+  },
+  {
+    "id": "42f79145-3662-4a41-9d10-379a11403d78",
+    "data": [
+      {
+        "text": "¿Cómo estas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527212453
+  },
+  {
+    "id": "9da7cd4d-6136-47d8-90e0-a5eb930a8325",
+    "data": [
+      {
+        "text": "¿Qué ha sido de ti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212453
+  }
+]

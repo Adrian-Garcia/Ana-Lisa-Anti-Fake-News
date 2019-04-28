@@ -1,0 +1,65 @@
+{
+  "id": "c6112ae0-6193-478f-833c-d9c01d34ac29",
+  "name": "No se donde está mi INE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "34116afe-2a2c-4778-952a-9039cbd346e7",
+          "required": false,
+          "dataType": "@Perdida",
+          "name": "Perdida",
+          "value": "$Perdida",
+          "isList": false
+        },
+        {
+          "id": "34c8408d-33c8-4937-9130-d2f9f4399597",
+          "required": false,
+          "dataType": "@INE",
+          "name": "INE",
+          "value": "$INE",
+          "isList": false
+        },
+        {
+          "id": "b1b68fb8-279a-4765-a855-e65de4a156c9",
+          "required": false,
+          "dataType": "@Boleta",
+          "name": "Boleta",
+          "value": "$Boleta",
+          "isList": false
+        },
+        {
+          "id": "825e79c5-a1e8-4acc-b1d7-690dab5454f0",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Tienes hasta el 20 de junio para solicitar una reimpresión. Debes acudir a tu módulo del INE con un documento que acredite tu nacionalidad, una identificación con fotografía original y un comprobante de domicilio."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528347764,
+  "fallbackIntent": false,
+  "events": []
+}

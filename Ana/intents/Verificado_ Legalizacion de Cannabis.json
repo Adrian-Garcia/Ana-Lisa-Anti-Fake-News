@@ -1,0 +1,44 @@
+{
+  "id": "bdf5ada5-0d5b-468c-958a-ecef0ff16b9d",
+  "name": "Verificado: Legalizacion de Cannabis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "606b5125-8bd8-439f-bc32-f95d36ed16d1",
+          "required": false,
+          "dataType": "@Cannabis",
+          "name": "Cannabis",
+          "value": "$Cannabis",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Solo california, Nevada, Oregon, Washington y Alaska han legalizado el uso del cannabis de forma medicinal y recreativa. En Canadá es legal solamente en el uso medicinal menciona National Conference of State Legislatures."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377660,
+  "fallbackIntent": false,
+  "events": []
+}

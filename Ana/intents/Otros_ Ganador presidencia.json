@@ -1,0 +1,32 @@
+{
+  "id": "5f14c320-a54c-4c4b-ad1c-0c7188a7b363",
+  "name": "Otros: Ganador presidencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Aún no hay ganador. Pero tu, junto a millones de mexicanos, tomarán la decisión más importante de todas el primer día de Julio."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527212091,
+  "fallbackIntent": false,
+  "events": []
+}

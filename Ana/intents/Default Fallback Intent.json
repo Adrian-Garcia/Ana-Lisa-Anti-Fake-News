@@ -1,0 +1,36 @@
+{
+  "id": "180ac4af-ea07-4e22-be31-4e1dc625be38",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Disculpa, pero no te he entendí. Sigo en desarrollo, por lo que te pido intentes de otra forma.",
+            "No te entendí, ¿puedes preguntarme de otra manera?",
+            "Sigo entrenando para entender todo lo que me pregunta la gente, pero mientras, ¿podrías repetirme la pregunta de otra manera?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527072325,
+  "fallbackIntent": true,
+  "events": []
+}

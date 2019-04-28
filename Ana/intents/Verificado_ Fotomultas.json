@@ -1,0 +1,47 @@
+{
+  "id": "878a616b-a1eb-4ec1-ba99-ec06127e7a7e",
+  "name": "Verificado: Fotomultas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d86c4776-9687-44a1-bc3b-434c13599ce2",
+          "dataType": "@CDMX",
+          "name": "CDMX",
+          "value": "$CDMX",
+          "isList": false
+        },
+        {
+          "id": "d6277e0b-629a-48f5-b6a4-dccb13293372",
+          "dataType": "@Fotomultas",
+          "name": "Fotomultas",
+          "value": "$Fotomultas",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El Gobierno de la Ciudad de México volvió a entregar la operación y mantenimiento de los sistemas de fotomultas (ahora \"infracciones automatizadas\") a la empresa Inteltráfico, dos meses antes de que Miguel Ángel Mancera declarara que \"el contrato se terminó ya hace un buen rato\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528599287,
+  "fallbackIntent": false,
+  "events": []
+}

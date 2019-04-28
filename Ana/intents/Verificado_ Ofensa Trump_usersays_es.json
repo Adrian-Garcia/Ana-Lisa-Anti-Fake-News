@@ -1,0 +1,287 @@
+[
+  {
+    "id": "482ffa94-f1a8-4dcf-a19c-61e0457f2bf0",
+    "data": [
+      {
+        "text": "Donald ",
+        "userDefined": false
+      },
+      {
+        "text": "Trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insulta",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "mexicanos",
+        "alias": "Mexicanos",
+        "meta": "@Mexicanos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "4b9de0e8-6e57-45d7-93f4-bc4184753126",
+    "data": [
+      {
+        "text": "Donald Trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ofende",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "921a7449-22ff-43cc-9860-19668f3a5519",
+    "data": [
+      {
+        "text": "Ofensas de ",
+        "userDefined": false
+      },
+      {
+        "text": "trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "el 16 de Mayo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a mexicanos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "1b5f3470-c800-4d81-98ca-c207ee975d0c",
+    "data": [
+      {
+        "text": "Trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ofende",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a Méxicanos ",
+        "userDefined": false
+      },
+      {
+        "text": "el 16 de Mayo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "4ccb2ee2-57fe-46b3-8bda-53f512f4d75b",
+    "data": [
+      {
+        "text": "Ofensas",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "16 de mayo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "8a699528-fd62-4a28-96c3-f37113a2ea3c",
+    "data": [
+      {
+        "text": "Presidente de Estados Unidos",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insulta",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexicanos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "el 16 de Mayo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "4299c7df-6a85-4fbd-87c3-deb62a93f090",
+    "data": [
+      {
+        "text": "Donald trump",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ofende",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a Mexicanos e ",
+        "userDefined": false
+      },
+      {
+        "text": "16 de Mayo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  },
+  {
+    "id": "26e70a2c-3ca8-4ac2-979d-e3cf0bb69bbd",
+    "data": [
+      {
+        "text": "Insultos",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en Mayo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  por ",
+        "userDefined": false
+      },
+      {
+        "text": "presidente americano",
+        "alias": "Trump",
+        "meta": "@Trump",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377999
+  }
+]

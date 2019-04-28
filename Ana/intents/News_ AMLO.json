@@ -1,0 +1,53 @@
+{
+  "id": "1a6ad333-e2af-413e-b066-304e62bc3541",
+  "name": "News: AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd95a622-4c37-4ba8-85cd-ba1918eb47ab",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "2edee890-e583-4090-8c5c-da0e0d8bbe96",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Las encuestas no afectaron a AMLO. Subió de 48 a 50 puntos después del primer debate presidencial",
+            "Jose Antonio Meade acusa a Andres Manuel López Obrador de poseer tres departamentos no reflejados en su patrimonio.",
+            "AMLO y Anaya tienen fuertes discusiones en el debate y se acusan de mentirosos en el segundo debate"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527267666,
+  "fallbackIntent": false,
+  "events": []
+}

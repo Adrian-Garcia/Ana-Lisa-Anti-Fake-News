@@ -1,0 +1,417 @@
+[
+  {
+    "id": "f81bb63d-72b3-406f-95df-907b90417566",
+    "data": [
+      {
+        "text": "Lopez",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " estaba ",
+        "userDefined": false
+      },
+      {
+        "text": "tomado",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222629
+  },
+  {
+    "id": "5e14eedd-4aa9-4c7d-8dc3-235ac304e97d",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " estaba ",
+        "userDefined": false
+      },
+      {
+        "text": "borracho",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " y no quizo dar entrevista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372499
+  },
+  {
+    "id": "e9a43f45-83e6-44c0-bd80-36c5cff7ab2d",
+    "data": [
+      {
+        "text": "Video de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomado",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528339676
+  },
+  {
+    "id": "6fd74395-e60a-4a92-96a2-9be78b2a2101",
+    "data": [
+      {
+        "text": "Video de ",
+        "userDefined": false
+      },
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ebrio",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528339676
+  },
+  {
+    "id": "fe14dafb-2fa6-41c1-b497-5c45ce187442",
+    "data": [
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " estaba ",
+        "userDefined": false
+      },
+      {
+        "text": "tomado",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " y no quiso dar ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " entrevista?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528372499
+  },
+  {
+    "id": "720fac79-0566-4e04-a44f-a7f93159babc",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " está ",
+        "userDefined": false
+      },
+      {
+        "text": "ebrio",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " y no quiere dar entrevista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528339676
+  },
+  {
+    "id": "c1df559e-b170-4b02-934a-f9f712ed0d48",
+    "data": [
+      {
+        "text": "Andrés",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " no da entrevista por estar ",
+        "userDefined": false
+      },
+      {
+        "text": "borracho",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528339676
+  },
+  {
+    "id": "1688dc8d-76a3-4429-be7d-03e074c707fd",
+    "data": [
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Estado de ebriedad",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222629
+  },
+  {
+    "id": "19d6f2cd-a3b8-498e-aaf9-8d1cbdf47f8f",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ebrio",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222629
+  },
+  {
+    "id": "42cdda4f-24fc-4e52-8753-4958425cc7e2",
+    "data": [
+      {
+        "text": "Lopez Obrador",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " se reusa a ser entrevistado por estar en ",
+        "userDefined": false
+      },
+      {
+        "text": "estado de ebriedad",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222556
+  },
+  {
+    "id": "c6356f5d-ab56-4206-976b-e3dda1d015f9",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " estaba ",
+        "userDefined": false
+      },
+      {
+        "text": "ebrio",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " y no quiso ser entrevistado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222556
+  },
+  {
+    "id": "20983e1e-e0c6-4c9d-ac65-43a71521331e",
+    "data": [
+      {
+        "text": "AMlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomado",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " no da entrevista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222556
+  },
+  {
+    "id": "48752405-91fc-4b5d-9a12-248715325bb2",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " andaba ",
+        "userDefined": false
+      },
+      {
+        "text": "borracho",
+        "alias": "Alcohol",
+        "meta": "@Alcohol",
+        "userDefined": false
+      },
+      {
+        "text": " y se negó a dar entrevista?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528222556
+  }
+]

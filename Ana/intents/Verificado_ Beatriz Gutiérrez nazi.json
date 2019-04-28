@@ -1,0 +1,56 @@
+{
+  "id": "c30bce3b-a4ba-4b05-9992-f35d1653607c",
+  "name": "Verificado: Beatriz Gutiérrez nazi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f0b01706-a70a-476c-b475-84c5e4f534ac",
+          "required": false,
+          "dataType": "@BeatrizGutierrez",
+          "name": "BeatrizGutierrez",
+          "value": "$BeatrizGutierrez",
+          "isList": false
+        },
+        {
+          "id": "3e7321e4-f43f-4611-a148-240cb1553fc6",
+          "required": false,
+          "dataType": "@Nazi",
+          "name": "Nazi",
+          "value": "$Nazi",
+          "isList": false
+        },
+        {
+          "id": "6ecaf413-9b52-48c2-b8d4-9782c3170d74",
+          "dataType": "@Familiar",
+          "name": "Familiar",
+          "value": "$Familiar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Verificado revisó el acta de nacimiento de Beatriz Gutiérrez Müller, pública en la página www.gob.mx, y constató que el abuelo materno es Adolfo Marcelo Müller Oliphant, no Heinrich Müller. Además, \"Müller\" es un apellido tan común en Alemania como el \"Pérez\" en México."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528660092,
+  "fallbackIntent": false,
+  "events": []
+}

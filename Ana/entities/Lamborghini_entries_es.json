@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Lamborghini",
+    "synonyms": [
+      "Lamborghini",
+      "Lambo",
+      "Lamboryini",
+      "Lamborllini",
+      "Auto de lujo",
+      "Carro de lujo",
+      "Carrazo",
+      "Automovil caro",
+      "Auto"
+    ]
+  },
+  {
+    "value": "mercedez benz",
+    "synonyms": [
+      "mercedez benz"
+    ]
+  },
+  {
+    "value": "tien carros de lujo",
+    "synonyms": [
+      "tien carros de lujo"
+    ]
+  },
+  {
+    "value": "Lamborgini",
+    "synonyms": [
+      "Lamborgini"
+    ]
+  },
+  {
+    "value": "Mercedez",
+    "synonyms": [
+      "Mercedez"
+    ]
+  }
+]

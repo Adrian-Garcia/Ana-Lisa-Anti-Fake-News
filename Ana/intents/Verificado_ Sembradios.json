@@ -1,0 +1,44 @@
+{
+  "id": "888b63a9-a488-4d40-8416-e81e1e599006",
+  "name": "Verificado: Sembradios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "badbc523-356c-413b-b52f-333b262d4724",
+          "required": false,
+          "dataType": "@Sembradios",
+          "name": "Sembradios",
+          "value": "$Sembradios",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "De acuerdo con el Servicio de Información Agroalimentaria y Pesquera, se cultiva maíz en los 81 municipio del territorio de Guerrero."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378182,
+  "fallbackIntent": false,
+  "events": []
+}

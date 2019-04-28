@@ -1,0 +1,190 @@
+[
+  {
+    "id": "abe4a68b-a12f-47ee-93f0-ca970478fab7",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y Masive ",
+        "userDefined": false
+      },
+      {
+        "text": "Caller",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  },
+  {
+    "id": "a60fd9d3-5a20-4d05-a7ce-d8231ce90810",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " usa ",
+        "userDefined": false
+      },
+      {
+        "text": "Masiv caler",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  },
+  {
+    "id": "2762af10-0a77-4685-95e5-230297455783",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "está",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " utilizando a ",
+        "userDefined": false
+      },
+      {
+        "text": "Massive caller",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  },
+  {
+    "id": "be2e95db-a484-4bdc-9570-0a8027711292",
+    "data": [
+      {
+        "text": "Massive Caller",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      },
+      {
+        "text": " usada por ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  },
+  {
+    "id": "4e23b465-fe2a-40a5-baa0-7b44e3db9a44",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "pan",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "está",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " usando ",
+        "userDefined": false
+      },
+      {
+        "text": "Massive Caller",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  },
+  {
+    "id": "68480029-ecb4-42a7-8920-be573e85c2b3",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " contrató a la encuestadora ",
+        "userDefined": false
+      },
+      {
+        "text": "Massive Caller",
+        "alias": "MassiveCaller",
+        "meta": "@MassiveCaller",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347904
+  }
+]

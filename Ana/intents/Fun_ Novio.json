@@ -1,0 +1,32 @@
+{
+  "id": "d334570e-1c11-4158-96e4-706528abced3",
+  "name": "Fun: Novio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Aún no tengo novio... sigo en busca del mi bot ideal."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527213993,
+  "fallbackIntent": false,
+  "events": []
+}

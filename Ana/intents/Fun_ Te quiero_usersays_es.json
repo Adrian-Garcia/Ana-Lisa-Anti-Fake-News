@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fb75796c-ddfc-4a48-a9c5-54991e9efe92",
+    "data": [
+      {
+        "text": "¿Quieres ser mi novia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "d9365a10-ef46-4779-a10a-65710d7ae9a7",
+    "data": [
+      {
+        "text": "Te quiero mucho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "e32c1306-5afb-4b9a-98c7-00636ba737bf",
+    "data": [
+      {
+        "text": "Te adoro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "49f91448-ffde-4000-aa2f-ef8e7b9a2280",
+    "data": [
+      {
+        "text": "Te amo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "273122cb-1ab3-43a7-b193-d7416a647a70",
+    "data": [
+      {
+        "text": "Be mine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80b2e5fe-157e-4489-929d-340720c0eb85",
+    "data": [
+      {
+        "text": "Me gustas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "0a1f036b-6f2d-434e-8dcf-dbc4b92919cb",
+    "data": [
+      {
+        "text": "Ana me encantas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220379
+  },
+  {
+    "id": "e663833c-3f4d-47cf-af7b-ebe4b86b3e3d",
+    "data": [
+      {
+        "text": "Te quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527220379
+  }
+]

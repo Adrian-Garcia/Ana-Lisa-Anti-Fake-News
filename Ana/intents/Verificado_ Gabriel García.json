@@ -1,0 +1,64 @@
+{
+  "id": "366dfcaa-1e56-420a-8ad2-3ea886fdd181",
+  "name": "Verificado: Gabriel García",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6d0d0cf-dc1d-478f-858f-51aa9f9c157b",
+          "required": false,
+          "dataType": "@Boleta",
+          "name": "Boleta",
+          "value": "$Boleta",
+          "isList": false
+        },
+        {
+          "id": "8eb18cd5-21d6-40d7-8686-953d68e7921f",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "d8f92a52-0ca3-418a-92aa-1e8f21ea398b",
+          "required": false,
+          "dataType": "@Critica",
+          "name": "Critica",
+          "value": "$Critica",
+          "isList": false
+        },
+        {
+          "id": "bc8e3539-79ec-48f6-ad74-eb891ed9291b",
+          "dataType": "@GaelGarcia",
+          "name": "GaelGarcia",
+          "value": "$GaelGarcia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El actor mexicano nunca declaró estar en contra de Morena. Incluso desmintió a través de su Twitter personal."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528600250,
+  "fallbackIntent": false,
+  "events": []
+}

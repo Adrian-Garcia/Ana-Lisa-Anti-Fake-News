@@ -1,0 +1,255 @@
+[
+  {
+    "id": "cbd159d4-78b5-40fd-9577-6eba3a27aa62",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Gael García",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " llamó al ",
+        "userDefined": false
+      },
+      {
+        "text": "voto",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": " útil ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  },
+  {
+    "id": "03233178-a3b2-491f-94bc-72260b9ecc28",
+    "data": [
+      {
+        "text": "Gael",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " pide ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  },
+  {
+    "id": "37ffe660-dc50-408e-a4ab-c17f5ceef8fa",
+    "data": [
+      {
+        "text": "Gael",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " no apoya a ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  },
+  {
+    "id": "d1977267-1b8f-4c38-89b4-16552a55f81d",
+    "data": [
+      {
+        "text": "Gael",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "está",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  },
+  {
+    "id": "d446739f-d4a1-49c0-9897-5a5c86158b7e",
+    "data": [
+      {
+        "text": "Gael García",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrés Manuel",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  },
+  {
+    "id": "063bf817-89ef-4d73-a4f7-2a0635caa944",
+    "data": [
+      {
+        "text": "Gael García",
+        "alias": "GaelGarcia",
+        "meta": "@GaelGarcia",
+        "userDefined": true
+      },
+      {
+        "text": " pide ",
+        "userDefined": false
+      },
+      {
+        "text": "voto",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528600250
+  }
+]

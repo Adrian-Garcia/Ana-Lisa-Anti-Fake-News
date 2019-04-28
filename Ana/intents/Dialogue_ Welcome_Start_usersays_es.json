@@ -1,0 +1,151 @@
+[
+  {
+    "id": "a2afde96-84af-4ef5-bacc-6e23d657bb77",
+    "data": [
+      {
+        "text": "@AlphaAnaBot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c3bf311-b27e-4665-a357-4895935dcd42",
+    "data": [
+      {
+        "text": "Hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1527033443
+  },
+  {
+    "id": "bc8b2022-d054-4d1b-ad40-f3da6162c66d",
+    "data": [
+      {
+        "text": "Hola Ana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2691b6f8-47de-4a87-bcf7-798b90fa2f34",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527033443
+  },
+  {
+    "id": "92bef20d-5e12-4077-9b99-66b2dde65870",
+    "data": [
+      {
+        "text": "Oye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527033443
+  },
+  {
+    "id": "0e257af0-a5c6-4ecd-a2be-c6cbc674f55d",
+    "data": [
+      {
+        "text": "Que tal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527033443
+  },
+  {
+    "id": "51e4f601-dd93-4679-8fd6-94b99feda8d6",
+    "data": [
+      {
+        "text": "Que pedo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b0dd291-f4db-477b-b7e6-545f5d648c81",
+    "data": [
+      {
+        "text": "Ana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527033443
+  },
+  {
+    "id": "068b832f-dff6-435c-a875-5c7575e8bee7",
+    "data": [
+      {
+        "text": "Cómo te llamas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527353057
+  },
+  {
+    "id": "f68a96ec-ccd3-4e12-b8fe-a314f336d6fe",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527033443
+  },
+  {
+    "id": "1e10f4a6-a6df-43fb-9b28-e1c89d6c576c",
+    "data": [
+      {
+        "text": "Saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527033443
+  },
+  {
+    "id": "8a3a4e28-d061-41f3-9c23-b49fd37004df",
+    "data": [
+      {
+        "text": "Anaaaaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

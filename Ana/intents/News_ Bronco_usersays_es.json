@@ -1,0 +1,198 @@
+[
+  {
+    "id": "44c66985-962b-432f-a49d-958eee5fd7d5",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08be4407-4aad-4603-b560-54a5f22b247d",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaime Rodriguez",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "267cb638-45e0-42e4-8f37-83c490e9e410",
+    "data": [
+      {
+        "text": "Que ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "el bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " ultimamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "49ae2ef0-b24f-41f3-a8cb-55ec9c7ea139",
+    "data": [
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "actualmente",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "a010bb8e-ef43-426b-b371-299e0506ddd7",
+    "data": [
+      {
+        "text": "Qué ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "el Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "1092bc13-96b5-4ebb-8383-f3d11fffe99b",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Rodríguez Calderón",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "3c494539-4de4-4e76-b39b-c9b0e386086b",
+    "data": [
+      {
+        "text": "Noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  },
+  {
+    "id": "b38717cd-311c-4458-9f6f-cf2f1d0bf645",
+    "data": [
+      {
+        "text": "Noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267047
+  }
+]

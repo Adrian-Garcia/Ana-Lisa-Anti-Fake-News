@@ -1,0 +1,41 @@
+{
+  "id": "59da3485-fef9-4994-8f24-b322ac301398",
+  "name": "Verificado: Deportacion Centroamericanos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c901b034-c834-42dc-9708-ba52ba7340b3",
+          "required": false,
+          "dataType": "@MigrantesCentroamericanos",
+          "name": "MigrantesCentroamericanos",
+          "value": "$MigrantesCentroamericanos",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Las detenciones de migrantes centroamericanos aumentaron en un 47% dice el Instituto Nacional de Migración"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377478,
+  "fallbackIntent": false,
+  "events": []
+}

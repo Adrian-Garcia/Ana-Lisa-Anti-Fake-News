@@ -1,0 +1,159 @@
+[
+  {
+    "id": "8601ab86-6014-4408-b8dd-c2d64e2942e2",
+    "data": [
+      {
+        "text": "Aún no se por quien decidir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "e3501766-1e0b-4515-a577-1364ba797aac",
+    "data": [
+      {
+        "text": "No se que hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "110c29f3-b97b-4d0b-9880-97a444b0eba4",
+    "data": [
+      {
+        "text": "Por quién ",
+        "userDefined": false
+      },
+      {
+        "text": "voto",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528377237
+  },
+  {
+    "id": "9d4e2623-59c2-476e-beb3-f3ce8ec29b9c",
+    "data": [
+      {
+        "text": "Estoy indeciso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "c0267783-4855-4c0b-9cf5-31bb9661769d",
+    "data": [
+      {
+        "text": "¿Por quien debo ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1528377237
+  },
+  {
+    "id": "300b1084-1a64-4a1a-a16b-c47d087e2ead",
+    "data": [
+      {
+        "text": "Me gustaría saber por ",
+        "userDefined": false
+      },
+      {
+        "text": "quien votar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "6ad63464-275a-4ea0-903b-cd1beb5e43a1",
+    "data": [
+      {
+        "text": "No se",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "e6700e82-4d20-43fc-99fb-fa4058b3fd25",
+    "data": [
+      {
+        "text": "¿Por quién debería ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "b2cddbc1-ac93-450b-a519-16783a2ebf63",
+    "data": [
+      {
+        "text": "Es muy difícil decidir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  },
+  {
+    "id": "f713c292-266e-4da9-96b5-1d70d0068132",
+    "data": [
+      {
+        "text": "No se por quien ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377237
+  }
+]

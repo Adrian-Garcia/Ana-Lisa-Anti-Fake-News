@@ -1,0 +1,254 @@
+[
+  {
+    "id": "e0fc6155-45a7-4b54-994c-4c9ebc2b8289",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " menciona algo del ",
+        "userDefined": false
+      },
+      {
+        "text": "papa",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "a877d24b-6931-4d8a-822b-f243dfcfa252",
+    "data": [
+      {
+        "text": "Qué dijo el ",
+        "userDefined": false
+      },
+      {
+        "text": "papa",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "3b02bf65-258a-48ab-94a7-2f85728452fa",
+    "data": [
+      {
+        "text": "Es cierto que el ",
+        "userDefined": false
+      },
+      {
+        "text": "papa",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "odia",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "3a255a4b-338e-47a4-9fb8-921d291ff156",
+    "data": [
+      {
+        "text": "Baticano",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "d73ae327-c240-4341-b65b-ba851ff1f290",
+    "data": [
+      {
+        "text": "Papa",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "6dd1f7c1-fa06-47d9-b604-490f960ecec7",
+    "data": [
+      {
+        "text": "Papa Francisco",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "critica",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  },
+  {
+    "id": "87a5f37c-a191-48a5-a5d7-4c30d34672e7",
+    "data": [
+      {
+        "text": "¿El ",
+        "userDefined": false
+      },
+      {
+        "text": "Papa",
+        "alias": "Papa",
+        "meta": "@Papa",
+        "userDefined": false
+      },
+      {
+        "text": " se ",
+        "userDefined": false
+      },
+      {
+        "text": "pronunció en contra",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528311331
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "9ededfe2-d5dd-402a-8479-fc650dceba2c",
+  "name": "Verificado: Lavado Anaya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "226a38a4-bf56-4df3-8b0e-79be6c0dc66a",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "a62d7bfa-f973-473a-b8de-c58cd1b27b8c",
+          "dataType": "@DiegoFernandez",
+          "name": "DiegoFernandez",
+          "value": "$DiegoFernandez",
+          "isList": false
+        },
+        {
+          "id": "dcb62076-2896-496c-8755-73a56e0a6a47",
+          "dataType": "@Corrupcion",
+          "name": "Corrupcion",
+          "value": "$Corrupcion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El video donde el Jefe Diego parece acusar a Anaya de lavado de dinero está manipulado. En el video original, Fernández de Cevallos busca desmentir estas acusaciones."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528594184,
+  "fallbackIntent": false,
+  "events": []
+}

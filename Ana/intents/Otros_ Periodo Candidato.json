@@ -1,0 +1,32 @@
+{
+  "id": "48b7a866-1fc1-4fec-90f6-24b732a28b7d",
+  "name": "Otros: Periodo Candidato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Un presidente dura 6 años en el cargo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527212218,
+  "fallbackIntent": false,
+  "events": []
+}

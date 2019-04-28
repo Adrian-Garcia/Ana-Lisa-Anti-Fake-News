@@ -1,0 +1,154 @@
+[
+  {
+    "id": "4b195df9-190b-4353-a259-fb81a97c61e3",
+    "data": [
+      {
+        "text": "Esposa de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      },
+      {
+        "text": " tiene un ",
+        "userDefined": false
+      },
+      {
+        "text": "Mercedez",
+        "alias": "Lamborghini",
+        "meta": "@Lamborghini",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528210268
+  },
+  {
+    "id": "02c396b8-6f2e-4671-a38a-a91b327fab53",
+    "data": [
+      {
+        "text": "Patrimonio de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " con mercedez Benz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528210268
+  },
+  {
+    "id": "d4de892a-fc81-434c-8bd5-b4efd7c5898b",
+    "data": [
+      {
+        "text": "Familia de ",
+        "userDefined": false
+      },
+      {
+        "text": "Candidato de morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tien carros de lujo",
+        "alias": "Lamborghini",
+        "meta": "@Lamborghini",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528210268
+  },
+  {
+    "id": "b3d668f4-9afe-4d84-bf23-302c9e4ca925",
+    "data": [
+      {
+        "text": "Esposa de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mercedez benz",
+        "alias": "Lamborghini",
+        "meta": "@Lamborghini",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528210268
+  },
+  {
+    "id": "9b005205-688f-4b57-932d-1a561a955a5b",
+    "data": [
+      {
+        "text": "Es cierto que el hijo de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lamborgini",
+        "alias": "Lamborghini",
+        "meta": "@Lamborghini",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528210268
+  }
+]

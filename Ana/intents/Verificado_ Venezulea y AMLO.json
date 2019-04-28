@@ -1,0 +1,49 @@
+{
+  "id": "6b296865-7823-4108-8f63-4e1bb6e210f9",
+  "name": "Verificado: Venezulea y AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86564665-4cfe-4e83-8898-5e8dfe02a2eb",
+          "required": false,
+          "dataType": "@Venezuela",
+          "name": "Venezuela",
+          "value": "$Venezuela",
+          "isList": false
+        },
+        {
+          "id": "14de88c8-37ec-4b28-83fd-faf82aa32bca",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "No hay apoyo de Venezuela a Andrés Manuel en redes sociales. El supuesto comunicado de la Juventud del Partido Socialista Unido de Venezuela (JPSUV) es falso, y fue difundido por Felipe Calderón y por el expresidente de Colombia, Andrés Pastrana."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528595602,
+  "fallbackIntent": false,
+  "events": []
+}

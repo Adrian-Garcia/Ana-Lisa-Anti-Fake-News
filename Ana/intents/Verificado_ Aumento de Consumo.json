@@ -1,0 +1,63 @@
+{
+  "id": "c52326c7-c936-485a-a842-c299f492faf9",
+  "name": "Verificado: Aumento de Consumo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f30dc73-fd6f-4e99-b534-9e2a624a6ca3",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "d531e9f5-1761-41b9-b4eb-16ef5f502fd1",
+          "required": false,
+          "dataType": "@Cannabis",
+          "name": "Cannabis",
+          "value": "$Cannabis",
+          "isList": true
+        },
+        {
+          "id": "abd84b8c-cb43-40e6-97de-bf8549587ce3",
+          "dataType": "@MikelArreola",
+          "name": "MikelArreola",
+          "value": "$MikelArreola",
+          "isList": false
+        },
+        {
+          "id": "cb36a069-430b-4e1e-93d6-f8ef1789bac1",
+          "dataType": "@Cannabis",
+          "name": "Cannabis1",
+          "value": "$Cannabis1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "No hay datos que comprueben una relación entre estos dos partidos y el aumento en el consumo de drogas. El consumo de marihuana sí ha aumentado en todo el país, no solo en la Ciudad de México. La capital del país no figura en los listados de entidades con mayor consumo de marihuana."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528344421,
+  "fallbackIntent": false,
+  "events": []
+}

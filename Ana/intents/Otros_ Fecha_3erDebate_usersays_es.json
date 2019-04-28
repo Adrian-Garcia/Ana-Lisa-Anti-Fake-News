@@ -1,0 +1,152 @@
+[
+  {
+    "id": "81a50752-2ac4-4686-b033-72b5016065a5",
+    "data": [
+      {
+        "text": "Cuando es ",
+        "userDefined": false
+      },
+      {
+        "text": "el tercer debate",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527002478
+  },
+  {
+    "id": "7da3e575-7768-4673-9e41-68d25570ac9f",
+    "data": [
+      {
+        "text": "¿Cuándo ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377027
+  },
+  {
+    "id": "8a917757-7ae2-4689-93f5-801c14aa57c4",
+    "data": [
+      {
+        "text": "Debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527002478
+  },
+  {
+    "id": "bb586510-dc72-46a7-9fab-982fd6f3bb9e",
+    "data": [
+      {
+        "text": "Siguiente debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527002478
+  },
+  {
+    "id": "2c90a9a2-4609-4db6-8250-bf4e93296cf3",
+    "data": [
+      {
+        "text": "Hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un tercer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527002478
+  },
+  {
+    "id": "9de789f5-884b-4bab-bb70-494eff3334b6",
+    "data": [
+      {
+        "text": "El tercer debate presidencial esta previsto para el 12 de Junio a las 21:00 horas.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "527f6903-74b5-4c8f-be9a-d54f01c2bac2",
+    "data": [
+      {
+        "text": "De qué tratará ",
+        "userDefined": false
+      },
+      {
+        "text": "el tercer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " denbate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528227077
+  },
+  {
+    "id": "66ae310f-cde9-4b2f-9871-ce01d933c70b",
+    "data": [
+      {
+        "text": "Tercer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527002478
+  },
+  {
+    "id": "d4aed292-12b3-4649-9e3c-292473c36da3",
+    "data": [
+      {
+        "text": "¿A qué hora es el debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527002478
+  }
+]

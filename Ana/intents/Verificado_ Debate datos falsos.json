@@ -1,0 +1,41 @@
+{
+  "id": "e9995747-3050-45ed-b51b-81a89d115144",
+  "name": "Verificado: Debate datos falsos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "45b41492-2bae-4fbf-af64-da06f3566d7b",
+          "required": false,
+          "dataType": "@Mentiras",
+          "name": "Mentiras",
+          "value": "$Mentiras",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El equipo de Verificado 2018 revisó las frases de los candidatos, evaluó los datos y esto fue lo que encontró:\nhttps://verificado.mx//verdades-mentiras-candidatos-seguridad-violencia-debate/\nhttps://verificado.mx/verificaciones-segundo-debate-presidencial/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377438,
+  "fallbackIntent": false,
+  "events": []
+}

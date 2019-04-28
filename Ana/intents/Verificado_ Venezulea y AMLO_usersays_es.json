@@ -1,0 +1,174 @@
+[
+  {
+    "id": "f8328e7d-9724-40d7-870a-fa14a907429e",
+    "data": [
+      {
+        "text": "Venezuela",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": true
+      },
+      {
+        "text": " está apoyando a ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      },
+      {
+        "text": " en redes sociales?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  },
+  {
+    "id": "299f1b91-6ff9-48c2-907d-b7ab0050f64b",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " es apoyado por ",
+        "userDefined": false
+      },
+      {
+        "text": "Venezuela",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": false
+      },
+      {
+        "text": " en redes sociales?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  },
+  {
+    "id": "102cfdc2-a144-472d-b357-57d81ebfa42f",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "gobierno de Venezuela",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  },
+  {
+    "id": "4c96a236-3bf1-418e-9f18-f5737bf474a7",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " es apoyado por ",
+        "userDefined": false
+      },
+      {
+        "text": "Venezuela",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  },
+  {
+    "id": "700d47fb-edb8-4eb9-b7c7-b0445010d51c",
+    "data": [
+      {
+        "text": "Venezuela",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": false
+      },
+      {
+        "text": " apoya ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrés Manuel",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  },
+  {
+    "id": "18c5fa49-d8d8-42ee-961f-a6087c357c01",
+    "data": [
+      {
+        "text": "¿El ",
+        "userDefined": false
+      },
+      {
+        "text": "gobierno venezolano",
+        "alias": "Venezuela",
+        "meta": "@Venezuela",
+        "userDefined": false
+      },
+      {
+        "text": " ordenó apoyar a ",
+        "userDefined": false
+      },
+      {
+        "text": "López Obrador",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " en redes sociales?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528595529
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "d894e647-63b3-49c8-9cf5-dd15bd663536",
+    "data": [
+      {
+        "text": "Carlos Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": true
+      },
+      {
+        "text": " compara a un ",
+        "userDefined": false
+      },
+      {
+        "text": "empleado corrupto",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      },
+      {
+        "text": " con el ",
+        "userDefined": false
+      },
+      {
+        "text": "PRI",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594805
+  },
+  {
+    "id": "75262090-189c-48b4-991f-64e9f964755b",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " asegura que el ",
+        "userDefined": false
+      },
+      {
+        "text": "PRI",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "corrupto",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594805
+  },
+  {
+    "id": "121790cf-2220-4bf5-b149-a1478f37183c",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " asegura que el ",
+        "userDefined": false
+      },
+      {
+        "text": "Partido Revolucionario Institucional",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      },
+      {
+        "text": " es como ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " empleado que ",
+        "userDefined": false
+      },
+      {
+        "text": "roba",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594805
+  },
+  {
+    "id": "f1f322f1-def5-4e1d-9327-7195a3d4c2b0",
+    "data": [
+      {
+        "text": "Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " dice que el ",
+        "userDefined": false
+      },
+      {
+        "text": "PRI",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es como ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " empleado ",
+        "userDefined": false
+      },
+      {
+        "text": "ladrón",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594805
+  },
+  {
+    "id": "1a0f0a08-01ac-42dc-b583-136eab894b1b",
+    "data": [
+      {
+        "text": "¿Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Slim",
+        "alias": "Slim",
+        "meta": "@Slim",
+        "userDefined": false
+      },
+      {
+        "text": " comparó al ",
+        "userDefined": false
+      },
+      {
+        "text": "PRI",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " empleado que ",
+        "userDefined": false
+      },
+      {
+        "text": "roba",
+        "alias": "Corrupcion",
+        "meta": "@Corrupcion",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528594805
+  }
+]

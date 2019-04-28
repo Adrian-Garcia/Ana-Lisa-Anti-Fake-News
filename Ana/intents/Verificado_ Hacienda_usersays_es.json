@@ -1,0 +1,318 @@
+[
+  {
+    "id": "c77b5c54-1674-486f-8fdf-8079a5211148",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "familiar",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "José Antonio González Anaya",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": ", el ",
+        "userDefined": false
+      },
+      {
+        "text": "actual",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " secretario de ",
+        "userDefined": false
+      },
+      {
+        "text": "Hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345004
+  },
+  {
+    "id": "d0dd22c9-8d22-452c-81b3-063b3b461c15",
+    "data": [
+      {
+        "text": "Hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parentezco",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " entre ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y el secretario de ",
+        "userDefined": false
+      },
+      {
+        "text": "Hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377561
+  },
+  {
+    "id": "8f6e7068-5561-4288-9682-5e446d4d23ed",
+    "data": [
+      {
+        "text": "Es verdad que ",
+        "userDefined": false
+      },
+      {
+        "text": "Jose Antonio Gonzales",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "familiar",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345004
+  },
+  {
+    "id": "2a92bf28-9fc7-48fe-b2f7-93cd2584cb07",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " parientes de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377561
+  },
+  {
+    "id": "38ce2893-cdc1-432e-8e6d-fade69ee2dbf",
+    "data": [
+      {
+        "text": "Parientes de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345004
+  },
+  {
+    "id": "c8f10caa-ed7e-448f-b6bc-dad2b109a245",
+    "data": [
+      {
+        "text": "Familia",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345004
+  },
+  {
+    "id": "63b802c4-b184-4fc6-b785-77f95d6aec0e",
+    "data": [
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " está con ",
+        "userDefined": false
+      },
+      {
+        "text": "Hacienda",
+        "alias": "Hacienda",
+        "meta": "@Hacienda",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345004
+  }
+]

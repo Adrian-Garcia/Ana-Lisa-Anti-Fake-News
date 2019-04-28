@@ -1,0 +1,65 @@
+{
+  "id": "e47d1c39-5a4f-4576-913b-7264b46efc15",
+  "name": "Verificado: Yo mero",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f657340-e14c-439e-acf5-0f6a426de816",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        },
+        {
+          "id": "2b202cf0-16d1-48cf-aaf1-638f5324bf09",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade1",
+          "value": "$Meade1",
+          "isList": false
+        },
+        {
+          "id": "d9b49495-595d-49eb-93a2-402d143f97e5",
+          "required": false,
+          "dataType": "@Boleta",
+          "name": "Boleta",
+          "value": "$Boleta",
+          "isList": false
+        },
+        {
+          "id": "835339e9-e158-4506-8835-79f9e69bdba4",
+          "required": false,
+          "dataType": "@YoMero",
+          "name": "YoMero",
+          "value": "$YoMero",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Sí, el 16 de febrero de 2018, el candidato del PRI solicitó el registro de las marcas \u0027Yo Mero\u0027, \u0027José Antonio Meade\u0027 y \u0027Meade 2018\u0027 ante el Instituto Mexicano de la Propiedad Industrial."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528345216,
+  "fallbackIntent": false,
+  "events": []
+}

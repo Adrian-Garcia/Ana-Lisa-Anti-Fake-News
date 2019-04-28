@@ -1,0 +1,25 @@
+[
+  {
+    "value": "Borracho",
+    "synonyms": [
+      "Borracho",
+      "Tomado",
+      "Pasado de copas",
+      "Ebrio",
+      "mal estado"
+    ]
+  },
+  {
+    "value": "Alcohol",
+    "synonyms": [
+      "Alcohol",
+      "Bebidas"
+    ]
+  },
+  {
+    "value": "estado de ebriedad",
+    "synonyms": [
+      "estado de ebriedad"
+    ]
+  }
+]

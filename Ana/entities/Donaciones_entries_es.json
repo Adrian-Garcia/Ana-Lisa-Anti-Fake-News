@@ -1,0 +1,31 @@
+[
+  {
+    "value": "Donaciones",
+    "synonyms": [
+      "Donaciones",
+      "Donativos",
+      "Donado",
+      "Doné"
+    ]
+  },
+  {
+    "value": "Apoyo",
+    "synonyms": [
+      "Apoyo",
+      "Apoyos",
+      "Ayuda"
+    ]
+  },
+  {
+    "value": "Recursos",
+    "synonyms": [
+      "Recursos",
+      "Viveres",
+      "Comida",
+      "Ropa",
+      "Suministros",
+      "Dinero",
+      "Efectivo"
+    ]
+  }
+]

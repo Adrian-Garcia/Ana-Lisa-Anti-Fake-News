@@ -1,0 +1,65 @@
+{
+  "id": "3ba63318-4b51-4605-8392-d1fb55c60e37",
+  "name": "Verificado: Anaya sin ropa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b97680ab-c9c3-468a-9277-17bd5d278329",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "23be3be3-e6e2-4b11-8fc3-1e678036f84a",
+          "required": false,
+          "dataType": "@Camisa",
+          "name": "Camisa",
+          "value": "$Camisa",
+          "isList": false
+        },
+        {
+          "id": "b7c06efa-e37d-4644-8bc7-b2d202b08285",
+          "required": false,
+          "dataType": "@Antro",
+          "name": "Antro",
+          "value": "$Antro",
+          "isList": false
+        },
+        {
+          "id": "af70e7d6-a61e-461e-8124-7f64145ab2e3",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya1",
+          "value": "$Anaya1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La foto que circula en redes sociales donde Anaya supuestamente tiene poca ropa está editada. Ese montaje es falso."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377190,
+  "fallbackIntent": false,
+  "events": []
+}

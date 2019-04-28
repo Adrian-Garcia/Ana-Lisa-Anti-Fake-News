@@ -1,0 +1,170 @@
+[
+  {
+    "id": "8bf698a1-de46-4fa5-94c5-da0899133cc2",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527267654
+  },
+  {
+    "id": "e9253222-88b8-49fd-bd74-856a36d20343",
+    "data": [
+      {
+        "text": "Ultimas noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267654
+  },
+  {
+    "id": "2270b1be-cef0-42f4-8946-50238b98bfd6",
+    "data": [
+      {
+        "text": "Qué dice ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267654
+  },
+  {
+    "id": "0265d950-74f4-4970-a272-f49f4721e893",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267654
+  },
+  {
+    "id": "5cc57348-7c13-4c1f-a64e-6bfe36e4b51f",
+    "data": [
+      {
+        "text": "Qué ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527267654
+  },
+  {
+    "id": "2e98c1de-a67f-4762-ae34-7312e202b33d",
+    "data": [
+      {
+        "text": "Noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267654
+  },
+  {
+    "id": "c1112a61-2c6f-43ff-8bff-76a39da2d1a4",
+    "data": [
+      {
+        "text": "Dame las ",
+        "userDefined": false
+      },
+      {
+        "text": "ultima noticia",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527267654
+  }
+]

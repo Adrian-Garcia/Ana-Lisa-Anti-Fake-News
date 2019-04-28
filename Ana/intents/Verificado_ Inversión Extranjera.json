@@ -1,0 +1,64 @@
+{
+  "id": "6c1daeb7-99d6-4a4c-a740-1a8cc536a3c8",
+  "name": "Verificado: Inversión Extranjera",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cda3569e-983a-4737-a560-89ab99a4a9e5",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "a716afb1-0b40-4a9b-b5f1-ca456f335a6e",
+          "required": false,
+          "dataType": "@Inversiones",
+          "name": "Inversiones",
+          "value": "$Inversiones",
+          "isList": false
+        },
+        {
+          "id": "29f62ecc-3d6c-4781-aa37-c2ff23c9b8f6",
+          "required": false,
+          "dataType": "@CDMX",
+          "name": "CDMX",
+          "value": "$CDMX",
+          "isList": false
+        },
+        {
+          "id": "dcfb4050-50b0-4a78-a3ca-cd257c863b20",
+          "dataType": "@Gobernante",
+          "name": "Gobernante",
+          "value": "$Gobernante",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La inversión extranjera en la Ciudad de México aumentó en un 26.36% durante la jefatura de gobierno de AMLO. El dato que circula en Twitter diciendo que aumentó en un 57.8% es falso. Esto fue difundido por la cordinadora de campaña Tatiana Clouthier. Mas tarde, el tuit fue borrado y remplazado con la cifra correcta"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528657489,
+  "fallbackIntent": false,
+  "events": []
+}

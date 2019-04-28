@@ -1,0 +1,184 @@
+[
+  {
+    "id": "cf508819-3f0c-479d-833e-8b1d50b8beb6",
+    "data": [
+      {
+        "text": "\n Según las ",
+        "userDefined": false
+      },
+      {
+        "text": "encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": true
+      },
+      {
+        "text": " quien lleva la delantera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "88fb2097-e1f9-45be-82eb-f31f1410516e",
+    "data": [
+      {
+        "text": "Resultados de encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "1285b0b5-6e7e-43c1-b5ac-080ecad969dc",
+    "data": [
+      {
+        "text": "Muestrame las ",
+        "userDefined": false
+      },
+      {
+        "text": "encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      },
+      {
+        "text": " de los candidatos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "b39947eb-b2a6-48ea-953f-abd32e550111",
+    "data": [
+      {
+        "text": "Como van las ",
+        "userDefined": false
+      },
+      {
+        "text": "encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "ccb324bc-26c6-4280-87b8-543fc784549e",
+    "data": [
+      {
+        "text": "Cuales son los resultados en las ",
+        "userDefined": false
+      },
+      {
+        "text": "encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "8c5782e3-6811-4273-8943-063382a31af2",
+    "data": [
+      {
+        "text": "Enséñame el ",
+        "userDefined": false
+      },
+      {
+        "text": "porcentaje de encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "40e020b4-f486-4e00-b00b-685c412ee99c",
+    "data": [
+      {
+        "text": "Quien es el candidato ",
+        "userDefined": false
+      },
+      {
+        "text": "favorito",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      },
+      {
+        "text": " para gobernar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "c11c5b4a-5fa9-438e-bade-cb2fd2a9c568",
+    "data": [
+      {
+        "text": "Candidato ",
+        "userDefined": false
+      },
+      {
+        "text": "favorito",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  },
+  {
+    "id": "15e33e40-0775-41d4-99dd-a446a2d340ac",
+    "data": [
+      {
+        "text": "Quien va ganando en las ",
+        "userDefined": false
+      },
+      {
+        "text": "encuestas",
+        "alias": "Encuestas",
+        "meta": "@Encuestas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364070
+  }
+]

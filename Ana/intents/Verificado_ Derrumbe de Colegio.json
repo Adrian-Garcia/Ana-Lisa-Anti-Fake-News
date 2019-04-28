@@ -1,0 +1,55 @@
+{
+  "id": "1a116851-8e77-4fdd-b921-29fdbc60ad0c",
+  "name": "Verificado: Derrumbe de Colegio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "95bbc1d9-1b25-41de-82df-ee96bd728d9a",
+          "dataType": "@Sheinbaum",
+          "name": "Sheinbaum",
+          "value": "$Sheinbaum",
+          "isList": true
+        },
+        {
+          "id": "b65964d0-6261-4f37-8349-c428b237490d",
+          "dataType": "@Colegio",
+          "name": "Colegio",
+          "value": "$Colegio",
+          "isList": false
+        },
+        {
+          "id": "a0309236-02dc-4af2-bba4-f06a2a482f35",
+          "dataType": "@Sismo",
+          "name": "Sismo",
+          "value": "$Sismo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La delegación Tlalpan sí tenía un expediente incompleto del edificio y los predios del Colegio Rébsamen; particularmente, faltan aquellos que pudieran probar que hubo revisiones de seguridad estructural de las instalaciones, responsabilidad que le correspondía a la delegación."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528600502,
+  "fallbackIntent": false,
+  "events": []
+}

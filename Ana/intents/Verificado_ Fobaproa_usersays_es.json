@@ -1,0 +1,362 @@
+[
+  {
+    "id": "96001b95-dddc-4cb3-9b0c-cc339f1256a7",
+    "data": [
+      {
+        "text": "¿El ",
+        "userDefined": false
+      },
+      {
+        "text": "papá",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es el autor del ",
+        "userDefined": false
+      },
+      {
+        "text": "Fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "35ca29c8-4b16-463b-9b74-840ab813bb38",
+    "data": [
+      {
+        "text": "Fobaproba creado por la ",
+        "userDefined": false
+      },
+      {
+        "text": "familia",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Jose",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Antonio",
+        "alias": "Meade1",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade2",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "3ac279d6-07ee-44b6-8305-1281fb58b55b",
+    "data": [
+      {
+        "text": "Jose",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Antonio",
+        "alias": "Meade1",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es creador del ",
+        "userDefined": false
+      },
+      {
+        "text": "Fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "61f375cf-7df9-437e-b96f-3292626adc41",
+    "data": [
+      {
+        "text": "Familia",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es creadora del ",
+        "userDefined": false
+      },
+      {
+        "text": "Fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "90f2e25c-75d4-4728-9132-eaeae40d5bbc",
+    "data": [
+      {
+        "text": "Familiar",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es autor de ",
+        "userDefined": false
+      },
+      {
+        "text": "Fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "052159b8-1aa3-4ff5-bb80-9418b5b80ca2",
+    "data": [
+      {
+        "text": "Padre",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " funda ",
+        "userDefined": false
+      },
+      {
+        "text": "fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "a09c9811-b8b8-461c-b7ea-666e594a86b6",
+    "data": [
+      {
+        "text": "papa",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528341140
+  },
+  {
+    "id": "fe44ca0a-a44e-4e6a-89f4-aa06510fdfd6",
+    "data": [
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "fondo de ahorros",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "a50a834d-3c11-46b5-8819-348503f45116",
+    "data": [
+      {
+        "text": "Es cierto que el ",
+        "userDefined": false
+      },
+      {
+        "text": "padre",
+        "alias": "Familiar",
+        "meta": "@Familiar",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " es el ",
+        "userDefined": false
+      },
+      {
+        "text": "fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  },
+  {
+    "id": "fdd6e444-1fe2-4baa-b802-4174221c873c",
+    "data": [
+      {
+        "text": "Quien es el autor de ",
+        "userDefined": false
+      },
+      {
+        "text": "fobaproa",
+        "alias": "Fobaproa",
+        "meta": "@Fobaproa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528341140
+  }
+]

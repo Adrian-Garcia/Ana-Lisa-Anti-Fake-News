@@ -1,0 +1,41 @@
+{
+  "id": "c8828c25-f99a-4b5f-add5-7efafbf5b6f7",
+  "name": "Info_General: Como votar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcba2d89-7f7b-4386-a709-011aee8946c9",
+          "required": false,
+          "dataType": "@Boleta",
+          "name": "Boleta",
+          "value": "$Boleta",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "De acuerdo con el Consejo General del Instituto Nacional Electoral, el voto es válido cuando el elector marca un solo recuadro con el emblema del partido político o candidatura independiente, o bien, más de uno de los recuadros siempre y cuando correspondan a los partidos que van juntos en la misma coalición."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528376332,
+  "fallbackIntent": false,
+  "events": []
+}

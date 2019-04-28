@@ -1,0 +1,150 @@
+[
+  {
+    "id": "8bb6e10e-0a4b-4855-89e4-03da5b1a899c",
+    "data": [
+      {
+        "text": "Veracidad de ",
+        "userDefined": false
+      },
+      {
+        "text": "Programa de Asistencia",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378106
+  },
+  {
+    "id": "8b438d10-0342-4cbf-bec0-2b5b7e911415",
+    "data": [
+      {
+        "text": "Es verdad que no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "programa de ayuda",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378106
+  },
+  {
+    "id": "1398feb9-4a4c-48a4-acfc-df47cc8556b1",
+    "data": [
+      {
+        "text": "Programa de Asistencia",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en Nuevo León",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590051
+  },
+  {
+    "id": "7137c40d-4ba4-4e5c-a06e-4efcefd4dd94",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "programa asistencialista",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378106
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "id": "ed406e1c-cd73-4ed7-a931-9f146e6af644",
+  "name": "Verificado: Amlo Alcohol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f12f5a5-6eb1-4594-9c41-b99272a9e59e",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "ce1416f9-feda-42da-8e52-f91cb8ea787c",
+          "required": false,
+          "dataType": "@Alcohol",
+          "name": "Alcohol",
+          "value": "$Alcohol",
+          "isList": false
+        },
+        {
+          "id": "b16b5ed0-59d1-492b-a8cf-dc3d16739410",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO1",
+          "value": "$AMLO1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El video que circula donde AMLO supuestamente está borracho está editado. El video fue editado para alentar la voz del candidato y hacerlo parecer borracho."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528372499,
+  "fallbackIntent": false,
+  "events": []
+}

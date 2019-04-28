@@ -1,0 +1,137 @@
+[
+  {
+    "id": "3bd8cba4-236a-4fe0-a30b-473441ca579b",
+    "data": [
+      {
+        "text": "Es cierto que es legal la ",
+        "userDefined": false
+      },
+      {
+        "text": "marihuana",
+        "alias": "Cannabis",
+        "meta": "@Cannabis",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377660
+  },
+  {
+    "id": "a098ba0c-1a08-4699-8604-1ccce6d379bf",
+    "data": [
+      {
+        "text": "Legalidad del ",
+        "userDefined": false
+      },
+      {
+        "text": "cannabis",
+        "alias": "Cannabis",
+        "meta": "@Cannabis",
+        "userDefined": true
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "Norteamerica",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377660
+  },
+  {
+    "id": "de0240a7-3246-4d5f-852b-ac6f66a339b7",
+    "data": [
+      {
+        "text": "Legalidad de ",
+        "userDefined": false
+      },
+      {
+        "text": "cannabis",
+        "alias": "Cannabis",
+        "meta": "@Cannabis",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos y Canadá",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377660
+  },
+  {
+    "id": "b4847a32-d31c-478b-87c0-5f16198d2dfc",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "mariguana",
+        "alias": "Cannabis",
+        "meta": "@Cannabis",
+        "userDefined": true
+      },
+      {
+        "text": " es legal en ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos y Canadá",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377660
+  },
+  {
+    "id": "99060f90-3ffc-4409-843d-c499779ecba6",
+    "data": [
+      {
+        "text": "Hierba",
+        "alias": "Cannabis",
+        "meta": "@Cannabis",
+        "userDefined": true
+      },
+      {
+        "text": " legar en ",
+        "userDefined": false
+      },
+      {
+        "text": "Canadá",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377660
+  }
+]

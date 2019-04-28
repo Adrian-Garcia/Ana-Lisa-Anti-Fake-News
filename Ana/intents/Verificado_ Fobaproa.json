@@ -1,0 +1,72 @@
+{
+  "id": "8accf06e-1a2b-405a-90a7-fe156b259a3f",
+  "name": "Verificado: Fobaproa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5670d4cb-671a-4519-b201-9a8650163131",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        },
+        {
+          "id": "5eb0e8f2-5aef-4c27-b910-d3fdd1124992",
+          "required": false,
+          "dataType": "@Fobaproa",
+          "name": "Fobaproa",
+          "value": "$Fobaproa",
+          "isList": false
+        },
+        {
+          "id": "e82dd1a9-3e09-4ffc-85ee-cfb07bcbce34",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade1",
+          "value": "$Meade1",
+          "isList": false
+        },
+        {
+          "id": "656e26fa-e790-4341-abbe-85d8ed313b72",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade2",
+          "value": "$Meade2",
+          "isList": false
+        },
+        {
+          "id": "3706d6c3-1013-4c16-955f-14fdfc7aeb15",
+          "dataType": "@Familiar",
+          "name": "Familiar",
+          "value": "$Familiar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El padre de Meade no es el autor del Fobaproa. Pero Dionisio Meade y García de León sí partició en la creación del Instituto para la Protección al Ahorro Bancario, encargado de dar continuidad a las operaciones iniciadas con el Fobaproa"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528341140,
+  "fallbackIntent": false,
+  "events": []
+}

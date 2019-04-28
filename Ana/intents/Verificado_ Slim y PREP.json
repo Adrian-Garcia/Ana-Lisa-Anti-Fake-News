@@ -1,0 +1,57 @@
+{
+  "id": "25aa4eee-a422-4daa-a112-4ce944f4b2f9",
+  "name": "Verificado: Slim y PREP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73f0bbec-a6a7-4c73-81e5-492ee5aaf738",
+          "required": false,
+          "dataType": "@INE",
+          "name": "INE",
+          "value": "$INE",
+          "isList": false
+        },
+        {
+          "id": "0f92ac93-920f-4000-a470-54424dba1089",
+          "required": false,
+          "dataType": "@PREP",
+          "name": "PREP",
+          "value": "$PREP",
+          "isList": false
+        },
+        {
+          "id": "972f7dfd-9a1d-4987-be73-7037ad932c57",
+          "required": false,
+          "dataType": "@Slim",
+          "name": "Slim",
+          "value": "$Slim",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El Programa de Resultados Electorales Preliminares es controlado únicamente por el INE y auditado por la UNAM. Sin embargo, la empresa Scitum de Carlos Slím sí fue contratada por el INE para salvaguardar sus sistemas de información contra ataques informáticos."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378281,
+  "fallbackIntent": false,
+  "events": []
+}

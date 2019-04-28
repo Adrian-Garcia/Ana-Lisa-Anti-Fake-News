@@ -1,0 +1,81 @@
+{
+  "id": "259ac268-2105-438b-a5ee-5baf41ff943a",
+  "name": "Verificado: Hacienda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dea73f3f-4a39-412b-a119-4708e37c10af",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "d38e3f2e-e0c7-4e1f-8e96-2ba54a6fa4a4",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya1",
+          "value": "$Anaya1",
+          "isList": false
+        },
+        {
+          "id": "a790e96d-1010-439e-b873-60647e713efc",
+          "required": false,
+          "dataType": "@Familiar",
+          "name": "Familiar",
+          "value": "$Familiar",
+          "isList": false
+        },
+        {
+          "id": "ceeaff13-c8c9-4f3b-896f-b2074f9d9c53",
+          "required": false,
+          "dataType": "@Salinas",
+          "name": "Salinas",
+          "value": "$Salinas",
+          "isList": false
+        },
+        {
+          "id": "180d366b-fbc1-49f1-86b7-19e9f90183be",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        },
+        {
+          "id": "baa749a6-4f08-4f82-837b-aaee468185b2",
+          "required": false,
+          "dataType": "@Hacienda",
+          "name": "Hacienda",
+          "value": "$Hacienda",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ricardo Anaya y José Antonio González Anaya, secretario de Hacienda, no tienen parentesco."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377561,
+  "fallbackIntent": false,
+  "events": []
+}

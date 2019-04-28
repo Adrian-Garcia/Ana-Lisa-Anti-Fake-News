@@ -1,0 +1,35 @@
+{
+  "id": "3494e4db-1f02-4cdb-b9af-a53ed331ffb2",
+  "name": "Otros: No se por quien votar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Es una decisión difícil... ¡pero aún tienes tiempo para pensarlo!",
+            "Para eso estoy yo, pregúntame cosas de los candidatos para informarte."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377237,
+  "fallbackIntent": false,
+  "events": []
+}

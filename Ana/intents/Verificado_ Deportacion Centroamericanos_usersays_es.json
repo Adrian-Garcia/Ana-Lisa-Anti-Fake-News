@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cb54c868-587d-49a6-a1c8-f7dc8c20d3e0",
+    "data": [
+      {
+        "text": "Detención de ",
+        "userDefined": false
+      },
+      {
+        "text": "migrantes",
+        "alias": "MigrantesCentroamericanos",
+        "meta": "@MigrantesCentroamericanos",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "méxico",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377478
+  },
+  {
+    "id": "5661925d-8970-44e9-a091-cf09fb9775fd",
+    "data": [
+      {
+        "text": "Detención de ",
+        "userDefined": false
+      },
+      {
+        "text": "Migrantes",
+        "alias": "MigrantesCentroamericanos",
+        "meta": "@MigrantesCentroamericanos",
+        "userDefined": false
+      },
+      {
+        "text": " antes de llegar a ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377478
+  },
+  {
+    "id": "ba57b096-8b01-4dce-881b-09e7dba790b2",
+    "data": [
+      {
+        "text": "Latinoamericanos",
+        "alias": "MigrantesCentroamericanos",
+        "meta": "@MigrantesCentroamericanos",
+        "userDefined": false
+      },
+      {
+        "text": " detenidos en ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377478
+  },
+  {
+    "id": "0dde7fea-3864-46a6-aefb-c0437758c25a",
+    "data": [
+      {
+        "text": "Migrantes Centroamericanos",
+        "alias": "MigrantesCentroamericanos",
+        "meta": "@MigrantesCentroamericanos",
+        "userDefined": false
+      },
+      {
+        "text": " detenidos en ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377478
+  }
+]

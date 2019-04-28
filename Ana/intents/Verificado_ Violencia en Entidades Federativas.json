@@ -1,0 +1,49 @@
+{
+  "id": "083277dd-6bc2-4b8f-9323-4271625982ef",
+  "name": "Verificado: Violencia en Entidades Federativas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf25a988-5853-4cb9-ab46-ec5810c76803",
+          "required": false,
+          "dataType": "@Entidades",
+          "name": "Entidades",
+          "value": "$Entidades",
+          "isList": false
+        },
+        {
+          "id": "3c80c6c6-f0aa-470f-8ea3-417b4c877b6a",
+          "required": false,
+          "dataType": "@Violencia",
+          "name": "Violencia",
+          "value": "$Violencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Acorde a lo que verificado 2018 dice, esta noticia es verdadera. La violencia aumentó de 29 a 32 entidades federativas."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378395,
+  "fallbackIntent": false,
+  "events": []
+}

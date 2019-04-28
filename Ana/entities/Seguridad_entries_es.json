@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Seguros",
+    "synonyms": [
+      "Seguros",
+      "Seguro",
+      "Seguirdad"
+    ]
+  },
+  {
+    "value": "Borrables",
+    "synonyms": [
+      "Borrables",
+      "Editables",
+      "Inseguros"
+    ]
+  }
+]

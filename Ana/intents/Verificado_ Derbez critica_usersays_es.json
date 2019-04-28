@@ -1,0 +1,150 @@
+[
+  {
+    "id": "5efb0b58-73bb-4eeb-b12c-bc52e532c24b",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "actor mexicano",
+        "alias": "EugenioDerbez",
+        "meta": "@EugenioDerbez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "humilla",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " a votantes de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378364
+  },
+  {
+    "id": "b7ea6d4e-a3bd-4f5f-b0e3-ea5c9959f3cd",
+    "data": [
+      {
+        "text": "Derbez",
+        "alias": "EugenioDerbez",
+        "meta": "@EugenioDerbez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "critica",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " a seguidores de ",
+        "userDefined": false
+      },
+      {
+        "text": "Amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378364
+  },
+  {
+    "id": "a33c67f9-7ea1-4594-80ea-e8e43a20f5aa",
+    "data": [
+      {
+        "text": "Eugenio",
+        "alias": "EugenioDerbez",
+        "meta": "@EugenioDerbez",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "insulta",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": false
+      },
+      {
+        "text": " a simpatizantes de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378364
+  },
+  {
+    "id": "687285b8-4dad-4aa4-9d16-e31d01357332",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Derbez",
+        "alias": "EugenioDerbez",
+        "meta": "@EugenioDerbez",
+        "userDefined": false
+      },
+      {
+        "text": " llamó ",
+        "userDefined": false
+      },
+      {
+        "text": "chairos",
+        "alias": "Critica",
+        "meta": "@Critica",
+        "userDefined": true
+      },
+      {
+        "text": " a simpatizantes de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morena",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378364
+  }
+]

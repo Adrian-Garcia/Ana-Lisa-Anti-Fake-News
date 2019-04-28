@@ -1,0 +1,72 @@
+[
+  {
+    "id": "35db2e16-59b1-492f-988f-d69337d0b30e",
+    "data": [
+      {
+        "text": "Edad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220171
+  },
+  {
+    "id": "30a84cb5-f8d6-48f5-92ff-b7e2ce749a4b",
+    "data": [
+      {
+        "text": "Que tan vieja eres?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220171
+  },
+  {
+    "id": "075abef1-a699-40c3-97ce-f3eead11820f",
+    "data": [
+      {
+        "text": "Que edad tienes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220171
+  },
+  {
+    "id": "d97e9883-5309-41be-88c2-ef9f211d0c5c",
+    "data": [
+      {
+        "text": "Cuanto has vivido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220171
+  },
+  {
+    "id": "afdd556d-89a0-49c6-91b0-5c1a70320d15",
+    "data": [
+      {
+        "text": "Cuantos ",
+        "userDefined": false
+      },
+      {
+        "text": "años",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " tienes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527220171
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "ed1427fb-94d6-4aab-8d77-ad1091f64a50",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "7ec87297-0727-42d0-8b25-ca5b2195bbb5",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "Noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " actuales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "dca0ec32-c140-495b-a809-e1500f8c2d93",
+    "data": [
+      {
+        "text": "Noticia Actual",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "f0cd931a-e3df-437b-b300-a0a0aadd9c95",
+    "data": [
+      {
+        "text": "Que está ",
+        "userDefined": false
+      },
+      {
+        "text": "pasando",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "d49f2190-1100-4f16-916d-d00fabbc9da9",
+    "data": [
+      {
+        "text": "Noticia",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "5793f949-642a-4148-a884-d0fd8b86ce29",
+    "data": [
+      {
+        "text": "Noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "d7498628-8f5a-47cc-a723-f7f7c121e0ea",
+    "data": [
+      {
+        "text": "Qué está ",
+        "userDefined": false
+      },
+      {
+        "text": "sucediendo",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " actualmente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "0c3532df-3537-4d6b-bad6-b177ba326b82",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " Actuales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  },
+  {
+    "id": "684c49e6-5e38-4c27-b3c4-3c8f0a63ee3c",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "pasa",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376600
+  },
+  {
+    "id": "f9f576ef-cbd8-4be7-8c7a-a534894508b3",
+    "data": [
+      {
+        "text": "Información ",
+        "userDefined": false
+      },
+      {
+        "text": "actual",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527364137
+  }
+]

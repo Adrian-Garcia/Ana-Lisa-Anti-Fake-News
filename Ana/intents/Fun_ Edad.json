@@ -1,0 +1,41 @@
+{
+  "id": "92778fbd-d837-43e5-a429-acec53066c05",
+  "name": "Fun: Edad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8dd96625-2111-4fb2-b8d8-3c0f18aa8997",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Fui desarrollada en el 2018 por lo que no tengo ni un año de vida. No obstante, cada día aprendo más de México"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527220171,
+  "fallbackIntent": false,
+  "events": []
+}

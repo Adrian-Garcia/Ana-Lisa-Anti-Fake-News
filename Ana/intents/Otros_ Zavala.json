@@ -1,0 +1,41 @@
+{
+  "id": "ba861c76-5818-4b1e-ab3d-9dae951c8718",
+  "name": "Otros: Zavala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "25befb34-c76f-4b1c-ae0e-9aa6290c2cb2",
+          "required": false,
+          "dataType": "@Zavala",
+          "name": "Zavala",
+          "value": "$Zavala",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Margarita Zavala renunció a su candidatura para la presidencia \"por un principio de congruencia, por un principio de honestidad política pero también para dejar en libertad a los que generosamente me han apoyado\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527627039,
+  "fallbackIntent": false,
+  "events": []
+}

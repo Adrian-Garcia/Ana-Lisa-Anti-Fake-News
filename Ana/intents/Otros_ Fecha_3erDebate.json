@@ -1,0 +1,35 @@
+{
+  "id": "0cfa65d4-59b9-4b20-a3c2-d5f065b37656",
+  "name": "Otros: Fecha_3erDebate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "El tercer debate presidencial esta previsto para el 12 de Junio a las 21:00 horas.",
+            "¡Falta muy poco, el tercer debate es el 12 de Junio a las 21:00 horas!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377027,
+  "fallbackIntent": false,
+  "events": []
+}

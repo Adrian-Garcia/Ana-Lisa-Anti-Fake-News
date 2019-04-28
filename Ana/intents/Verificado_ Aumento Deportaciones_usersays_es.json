@@ -1,0 +1,154 @@
+[
+  {
+    "id": "ae9a54c1-ebf0-44db-81d5-87bfad4b5658",
+    "data": [
+      {
+        "text": "Aumento de ",
+        "userDefined": false
+      },
+      {
+        "text": "Deportaciones",
+        "alias": "Deportaciones",
+        "meta": "@Deportaciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527008342
+  },
+  {
+    "id": "6d502781-3bf3-4e34-811b-fbeeabe6e175",
+    "data": [
+      {
+        "text": "Han aumentado ",
+        "userDefined": false
+      },
+      {
+        "text": "en un 40",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "% las ",
+        "userDefined": false
+      },
+      {
+        "text": "deportaciones",
+        "alias": "Deportaciones",
+        "meta": "@Deportaciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377357
+  },
+  {
+    "id": "afacd2b3-6df1-4348-9488-c89a64319bdf",
+    "data": [
+      {
+        "text": "Deportaciones",
+        "alias": "Deportaciones",
+        "meta": "@Deportaciones",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "EU",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377357
+  },
+  {
+    "id": "152d5a97-5fef-40cd-b652-e2433ebadc4c",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " alza de ",
+        "userDefined": false
+      },
+      {
+        "text": "deportaciones",
+        "alias": "Deportaciones",
+        "meta": "@Deportaciones",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377357
+  },
+  {
+    "id": "24ddca54-b006-4706-944f-8a37cf4ba490",
+    "data": [
+      {
+        "text": "En cuanto han aumentado las ",
+        "userDefined": false
+      },
+      {
+        "text": "deportaciones",
+        "alias": "Deportaciones",
+        "meta": "@Deportaciones",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527085077
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "id": "7519ba53-d30b-4169-94eb-8a535e7cf5e2",
+  "name": "Verificado: SLIM y empleado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "63d011a4-2ea6-4c5f-acfc-650edac7616c",
+          "required": false,
+          "dataType": "@Slim",
+          "name": "Slim",
+          "value": "$Slim",
+          "isList": true
+        },
+        {
+          "id": "de1fecb2-a48e-4802-bb39-549e2b6998b8",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        },
+        {
+          "id": "b1272564-ceae-4dc0-8022-a2fe187311f4",
+          "required": false,
+          "dataType": "@Corrupcion",
+          "name": "Corrupcion",
+          "value": "$Corrupcion",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Carlos Slim nunca declaró esto públicamente."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528594826,
+  "fallbackIntent": false,
+  "events": []
+}

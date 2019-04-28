@@ -1,0 +1,48 @@
+[
+  {
+    "value": "Corrupcion",
+    "synonyms": [
+      "Corrupcion",
+      "Robo",
+      "Perdida",
+      "Atraco",
+      "Lavado"
+    ]
+  },
+  {
+    "value": "lavar dinero",
+    "synonyms": [
+      "lavar dinero"
+    ]
+  },
+  {
+    "value": "lavar",
+    "synonyms": [
+      "lavar"
+    ]
+  },
+  {
+    "value": "empleado corrupto",
+    "synonyms": [
+      "empleado corrupto"
+    ]
+  },
+  {
+    "value": "roba",
+    "synonyms": [
+      "roba"
+    ]
+  },
+  {
+    "value": "ladrón",
+    "synonyms": [
+      "ladrón"
+    ]
+  },
+  {
+    "value": "corrupto",
+    "synonyms": [
+      "corrupto"
+    ]
+  }
+]

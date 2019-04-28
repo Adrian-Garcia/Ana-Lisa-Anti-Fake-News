@@ -1,0 +1,25 @@
+[
+  {
+    "value": "Cannabis",
+    "synonyms": [
+      "Cannabis",
+      "Marihuana",
+      "Mariguana",
+      "Hierba",
+      "Cannabis medicinal",
+      "Marihuana medicinal"
+    ]
+  },
+  {
+    "value": "drogas",
+    "synonyms": [
+      "drogas"
+    ]
+  },
+  {
+    "value": "marihauana",
+    "synonyms": [
+      "marihauana"
+    ]
+  }
+]

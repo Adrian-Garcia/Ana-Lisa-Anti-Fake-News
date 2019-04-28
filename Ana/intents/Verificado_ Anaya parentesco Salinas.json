@@ -1,0 +1,56 @@
+{
+  "id": "6e5a6628-ba82-4493-811d-b142ef82607d",
+  "name": "Verificado: Anaya parentesco Salinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6de0e3d9-5a37-4cf3-b7a9-062e3b8ce2ec",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "0bdfa2b9-41e4-43c0-9f19-ca890e47b5fe",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya1",
+          "value": "$Anaya1",
+          "isList": false
+        },
+        {
+          "id": "dfd82514-daca-4e03-96a8-736e0590ddad",
+          "dataType": "@Salinas",
+          "name": "Salinas",
+          "value": "$Salinas",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ricardo Anaya no está directa ni indirectamente emparentado con Carlos ni con Raúl Salinas. La esposa de Carlos Salinas sí es hermana de la esposa del José Antonio González Anaya, pero el secretario de Hacienda no es familiar de Ricardo Anaya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377121,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "5b20f0df-4816-4993-b407-c61910ce5727",
+  "name": "Verificado: Derbez critica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba8fa9f9-09ed-4593-811f-0cf57b25983f",
+          "required": false,
+          "dataType": "@EugenioDerbez",
+          "name": "EugenioDerbez",
+          "value": "$EugenioDerbez",
+          "isList": false
+        },
+        {
+          "id": "06cab20f-1789-4ea9-a866-50e5d72c8080",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "abe79380-94d4-4e81-a340-64b5c2005a30",
+          "required": false,
+          "dataType": "@Critica",
+          "name": "Critica",
+          "value": "$Critica",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Derbez nunca tuiteó \"chairos resentidos\", la foto que lo dice está manipulada."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378364,
+  "fallbackIntent": false,
+  "events": []
+}

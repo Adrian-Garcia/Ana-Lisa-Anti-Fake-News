@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Mentiras",
+    "synonyms": [
+      "Mentiras",
+      "Patrañas",
+      "falsedades",
+      "falsas",
+      "falso"
+    ]
+  },
+  {
+    "value": "Datos",
+    "synonyms": [
+      "Datos",
+      "Datos falsos",
+      "Datos erroneos",
+      "Datos malicios"
+    ]
+  },
+  {
+    "value": "Engañosos",
+    "synonyms": [
+      "Engañosos",
+      "Engañoso",
+      "Incierto",
+      "Incorrecto"
+    ]
+  },
+  {
+    "value": "mientieron",
+    "synonyms": [
+      "mientieron"
+    ]
+  },
+  {
+    "value": "mintieron",
+    "synonyms": [
+      "mintieron"
+    ]
+  }
+]

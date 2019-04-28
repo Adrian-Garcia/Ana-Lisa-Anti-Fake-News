@@ -1,0 +1,42 @@
+{
+  "id": "4aaffd01-0656-436d-9624-3a20b691140e",
+  "name": "Propuestas: General",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "581f30ad-383c-46ec-ac2c-d3edb5f43bf2",
+          "required": false,
+          "dataType": "@Propuestas",
+          "name": "Propuestas",
+          "value": "$Propuestas",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes encontrar las propuestas de AMLO en  https://lopezobrador.org.mx/temas/propuestas-amlo/ , las de Ricardo Anaya en https://ricardoanaya.com.mx/plataforma-del-frente , las de José Meade en https://meade18.com/ y las de Jaime Rodríguez en http://www.jaimerodriguez.mx/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377505,
+  "fallbackIntent": false,
+  "events": []
+}

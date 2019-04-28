@@ -1,0 +1,33 @@
+{
+  "id": "652ccafc-c590-4de9-965a-55005702a21d",
+  "name": "Otros: LeySeca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Está prohibido vender o consumir bebidas alcohólicas durante las 24 horas previas a todo proceso de elecciones y durante el día en que se desarrollen las mismas."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528342081,
+  "fallbackIntent": false,
+  "events": []
+}

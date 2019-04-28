@@ -1,0 +1,41 @@
+{
+  "id": "ac5624df-6b15-4756-8a5f-b0f9d9d5644e",
+  "name": "Verificado: Trata de Personas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96e43f67-ecc0-4bed-8fe0-bd6ba5f81a5d",
+          "required": false,
+          "dataType": "@TrataDePersonas",
+          "name": "TrataDePersonas",
+          "value": "$TrataDePersonas",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Verificado confirma que al menos ocho entidades han tenido operativos encubiertos para combatir la trata de personas"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528378325,
+  "fallbackIntent": false,
+  "events": []
+}

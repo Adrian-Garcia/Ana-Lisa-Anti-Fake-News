@@ -1,0 +1,32 @@
+{
+  "id": "30ed44c1-764b-478d-b94a-80642951e35f",
+  "name": "Otros: Referencias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Toda la información que te he platicado viene de \"Verificado.mx\" y \"Animalpolitico.com\", estas página checan las noticias y avalan la veracidad de estas."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527001883,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "31009b6d-862b-4c6f-8c4e-d0d422efa463",
+    "data": [
+      {
+        "text": "Cuando termina la ley seca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001030
+  },
+  {
+    "id": "aae8cf46-a4af-40d2-993f-b64b65dbff1d",
+    "data": [
+      {
+        "text": "No comprar caguamas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "fbf8260c-74ef-4329-b387-73b633ebfe06",
+    "data": [
+      {
+        "text": "No comprar cerveza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "14469022-e598-4a7f-896f-16552bd99829",
+    "data": [
+      {
+        "text": "No comprar cheves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "a4825c06-6220-42f7-bc85-1b853f3168fa",
+    "data": [
+      {
+        "text": "No comprar ",
+        "userDefined": false
+      },
+      {
+        "text": "alcohol",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "a0cc7746-edb2-4aeb-8a39-a5af374ef8dd",
+    "data": [
+      {
+        "text": "Que fecha empieza la ley seca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "d2fb2fdb-8f90-4a95-b75c-750c5e4cfc9d",
+    "data": [
+      {
+        "text": "Qué día ya no puedo comprar ",
+        "userDefined": false
+      },
+      {
+        "text": "alcohol",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528342081
+  },
+  {
+    "id": "907c8072-cd5a-4b9f-a620-643d1a79792d",
+    "data": [
+      {
+        "text": "¿Cuando es la ley seca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001030
+  },
+  {
+    "id": "a355335a-1de5-4943-8295-35e636ae9213",
+    "data": [
+      {
+        "text": "Venta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001030
+  },
+  {
+    "id": "6babec9c-2934-496e-b096-e2694a8cba0d",
+    "data": [
+      {
+        "text": "Ley Seca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001030
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "8760e6b0-0138-4805-8118-007560aa437a",
+  "name": "Verificado: Lapices INE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3348cf77-744a-4c93-b4a4-eb69890bfc18",
+          "required": false,
+          "dataType": "@Seguridad",
+          "name": "Seguridad",
+          "value": "$Seguridad",
+          "isList": false
+        },
+        {
+          "id": "056b9f97-b46f-4dac-a26d-b9b0110922f2",
+          "required": false,
+          "dataType": "@Lapiz",
+          "name": "Lapiz",
+          "value": "$Lapiz",
+          "isList": false
+        },
+        {
+          "id": "35ef9ba3-dd42-403a-bb12-a14d6db2b636",
+          "required": false,
+          "dataType": "@Boleta",
+          "name": "Boleta",
+          "value": "$Boleta",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Los lapices del INE no se borran. Aunque si tienes dudas puedes llevar tu propio plumón en el día de la elección."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377612,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "value": "marco",
+    "synonyms": [
+      "marco"
+    ]
+  },
+  {
+    "value": "seleccionar",
+    "synonyms": [
+      "seleccionar"
+    ]
+  },
+  {
+    "value": "Boleta",
+    "synonyms": [
+      "Boleta",
+      "Marca",
+      "Voto",
+      "Eleccion",
+      "Votar"
+    ]
+  },
+  {
+    "value": "escoger",
+    "synonyms": [
+      "escoger"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "08259878-1c1b-4af1-8063-6c924e30ca61",
+  "name": "Otros: Paz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b708efc8-35fe-4da4-b0a0-93ffbce39239",
+          "required": false,
+          "dataType": "@ViolenciaAna",
+          "name": "ViolenciaAna",
+          "value": "$ViolenciaAna",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Mi intención no es lastimar a nadie. Solo quiero que uses tu voto de la manera correcta.",
+            "No quiero herir a nadie. Yo solo quiero paz."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377318,
+  "fallbackIntent": false,
+  "events": []
+}

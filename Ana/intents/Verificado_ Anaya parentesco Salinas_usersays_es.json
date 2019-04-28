@@ -1,0 +1,267 @@
+[
+  {
+    "id": "39cf557b-3957-4540-97e2-ffe8de7e9ff0",
+    "data": [
+      {
+        "text": "Parentezco de ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528377121
+  },
+  {
+    "id": "fa12a948-51f4-4f5e-82ff-cbd8286163c1",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " son familiares?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  },
+  {
+    "id": "f6eca647-e90f-4787-81ba-ba5b0c45614f",
+    "data": [
+      {
+        "text": "Veracidad de la relación de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Raúl Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  },
+  {
+    "id": "9f1c0116-d0bf-431e-9179-c67c18bc8cce",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y Carlos ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " son parientes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  },
+  {
+    "id": "3f528847-f200-49dc-a551-8dfd0dc8b143",
+    "data": [
+      {
+        "text": "Parentezco de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y Carlos ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  },
+  {
+    "id": "7d7db787-8a56-4428-8a8f-8cbcee2ddb36",
+    "data": [
+      {
+        "text": "Carlos ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " y Ricadro ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " son parientes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528377121
+  },
+  {
+    "id": "359fc81f-091a-4f1a-bad1-970586f36d67",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " son parientes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  },
+  {
+    "id": "3720bb11-8e17-4d6d-badf-fc61a91aae4e",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " es pariente de ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " de Gortari o de ",
+        "userDefined": false
+      },
+      {
+        "text": "Raúl",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377121
+  }
+]

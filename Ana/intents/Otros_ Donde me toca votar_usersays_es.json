@@ -1,0 +1,59 @@
+[
+  {
+    "id": "9a4ee01f-bcbb-421a-a2f6-401db5aa068e",
+    "data": [
+      {
+        "text": "Dónde están las elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376949
+  },
+  {
+    "id": "5dcd13c8-ba00-496f-854f-8d3f1056a6c6",
+    "data": [
+      {
+        "text": "En que casilla me toca votar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376949
+  },
+  {
+    "id": "f6012a52-bd57-4c43-ab0a-ee907d6b7514",
+    "data": [
+      {
+        "text": "Dónde puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376949
+  },
+  {
+    "id": "cc0dbe5d-cb88-4801-bc66-c6e11b98a3a6",
+    "data": [
+      {
+        "text": "Donde me toca votar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334864
+  }
+]

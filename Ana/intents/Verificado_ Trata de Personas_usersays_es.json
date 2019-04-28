@@ -1,0 +1,133 @@
+[
+  {
+    "id": "8bf6fd15-a3ef-4ff2-b4e5-30f083a341a6",
+    "data": [
+      {
+        "text": "Operativos ",
+        "userDefined": false
+      },
+      {
+        "text": "combatientes de Trata de Personas",
+        "alias": "TrataDePersonas",
+        "meta": "@TrataDePersonas",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo León",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378325
+  },
+  {
+    "id": "f9a455d3-defe-461a-95df-040e2e0d587b",
+    "data": [
+      {
+        "text": "Nuevo León",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " y la ",
+        "userDefined": false
+      },
+      {
+        "text": "Trata de Personas",
+        "alias": "TrataDePersonas",
+        "meta": "@TrataDePersonas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378325
+  },
+  {
+    "id": "931b351e-4940-481e-a5d7-95d337cfd291",
+    "data": [
+      {
+        "text": "Veracidad de que ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo León",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tiene operativos encubiertos en contra del ",
+        "userDefined": false
+      },
+      {
+        "text": "comercio de personas",
+        "alias": "TrataDePersonas",
+        "meta": "@TrataDePersonas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378325
+  },
+  {
+    "id": "c89a81c5-651b-4804-b9bd-a4b94be67997",
+    "data": [
+      {
+        "text": "Es verdad que ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo León",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " hay operativos anti ",
+        "userDefined": false
+      },
+      {
+        "text": "Trata de personas",
+        "alias": "TrataDePersonas",
+        "meta": "@TrataDePersonas",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378325
+  },
+  {
+    "id": "c33cf652-57b2-4a4a-bf7f-def4408879dc",
+    "data": [
+      {
+        "text": "Nuevo León",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hace operativos que combaten de ",
+        "userDefined": false
+      },
+      {
+        "text": "trata de personas",
+        "alias": "TrataDePersonas",
+        "meta": "@TrataDePersonas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528378325
+  }
+]

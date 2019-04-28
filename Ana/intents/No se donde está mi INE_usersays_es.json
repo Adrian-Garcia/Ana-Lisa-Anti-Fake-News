@@ -1,0 +1,284 @@
+[
+  {
+    "id": "b34af705-0ec7-4293-b464-255844f1b45b",
+    "data": [
+      {
+        "text": "No se donde ",
+        "userDefined": false
+      },
+      {
+        "text": "está",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": true
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "f374ea15-1eae-4d46-a8a6-e10b21b204cd",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "robaron",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": ". Que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "f44dfaea-1b71-4028-84e0-496affdf8bea",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "pasa",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": false
+      },
+      {
+        "text": " si ",
+        "userDefined": false
+      },
+      {
+        "text": "no encuentro",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "9a1b9034-a75f-4d25-b556-e8ffd333f3ad",
+    "data": [
+      {
+        "text": "o encuentro mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": ". Aun puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "e408fa68-84db-4d13-ab5c-d3ad6b45c48e",
+    "data": [
+      {
+        "text": "Como recupero mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "02fccf22-e2f1-4804-a612-41f3692d5a48",
+    "data": [
+      {
+        "text": "Tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "perdida",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": ". Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "99c316e9-187e-49de-8a1e-34ff908160ec",
+    "data": [
+      {
+        "text": "Que hago si ",
+        "userDefined": false
+      },
+      {
+        "text": "no encuentro",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "3fb3a647-1fc7-4332-9e15-28fce48d2313",
+    "data": [
+      {
+        "text": "No encuentro",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      },
+      {
+        "text": ". Que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  },
+  {
+    "id": "07767c25-4b59-4fa7-89fa-ef2a32c7cf0e",
+    "data": [
+      {
+        "text": "Perdí",
+        "alias": "Perdida",
+        "meta": "@Perdida",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "INE",
+        "alias": "INE",
+        "meta": "@INE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528347764
+  }
+]

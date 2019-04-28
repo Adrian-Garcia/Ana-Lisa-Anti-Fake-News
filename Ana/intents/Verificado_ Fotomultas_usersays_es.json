@@ -1,0 +1,214 @@
+[
+  {
+    "id": "bbab54f0-b1e5-4bc2-a6f1-c58677edf7ef",
+    "data": [
+      {
+        "text": "Contrato de ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudad de México",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "c453cf27-1c42-4ebf-910b-074a1bfbed7d",
+    "data": [
+      {
+        "text": "Fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "3747e126-4434-4053-a799-58560b4742c6",
+    "data": [
+      {
+        "text": "Es cierto que no habrá mas ",
+        "userDefined": false
+      },
+      {
+        "text": "Fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "203f9b8d-5cd0-432e-8d3a-7e1f34d6a9df",
+    "data": [
+      {
+        "text": "Ya no se harán ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "d418789e-efb1-43c1-be51-419d362b758c",
+    "data": [
+      {
+        "text": "Ciudad de Mexico",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      },
+      {
+        "text": " no tiene contrato con ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "3a870659-7858-4675-9c51-49e634bcfdc0",
+    "data": [
+      {
+        "text": "Es cierto que el contrato de las ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " ha vencido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "d27664f6-f0bf-4d83-b3a9-362521afa086",
+    "data": [
+      {
+        "text": "El contrato de las ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " venció?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  },
+  {
+    "id": "51c1c267-a68a-484f-9c98-062cbd6597d8",
+    "data": [
+      {
+        "text": "¿Es verdad que el contrato de la ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudad de México",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": true
+      },
+      {
+        "text": " con las empresas de ",
+        "userDefined": false
+      },
+      {
+        "text": "fotomultas",
+        "alias": "Fotomultas",
+        "meta": "@Fotomultas",
+        "userDefined": true
+      },
+      {
+        "text": " ya se canceló?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528599287
+  }
+]

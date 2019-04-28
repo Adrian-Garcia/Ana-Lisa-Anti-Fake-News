@@ -1,0 +1,56 @@
+{
+  "id": "fc8bf91e-47e4-4b22-b771-36d1302cc173",
+  "name": "Verificado: Slim Inversiones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3e4e2e49-13ec-4c1e-8124-963c9cf1e5ba",
+          "required": false,
+          "dataType": "@Slim",
+          "name": "Slim",
+          "value": "$Slim",
+          "isList": false
+        },
+        {
+          "id": "42171dfa-1dd3-4900-95c8-a5c5567b27d9",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "bcce34ee-438d-4657-a85e-2c9e89978305",
+          "dataType": "@Inversiones",
+          "name": "Inversiones",
+          "value": "$Inversiones",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El empresario Carlos Slim nunca declaró esto, y la supuesta noticia de El Universal donde aparece la cita jamás fue publicada por el diario."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528656653,
+  "fallbackIntent": false,
+  "events": []
+}

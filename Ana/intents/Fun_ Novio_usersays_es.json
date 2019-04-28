@@ -1,0 +1,95 @@
+[
+  {
+    "id": "74b98450-9783-4790-9f45-2bd2882bf1b9",
+    "data": [
+      {
+        "text": "Encontraste el amor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213539
+  },
+  {
+    "id": "3c7f0ffb-a29e-4b47-bd79-71d8e58585e0",
+    "data": [
+      {
+        "text": "Tienes novia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213539
+  },
+  {
+    "id": "027b40cf-8bf4-44fd-a39f-3ca23f047de1",
+    "data": [
+      {
+        "text": "Estás casada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213539
+  },
+  {
+    "id": "b9d68909-2c6a-461f-b987-73ac4c84460f",
+    "data": [
+      {
+        "text": "Tienes pareja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213539
+  },
+  {
+    "id": "35554293-8a51-4ea7-a936-cc29e8e22a0e",
+    "data": [
+      {
+        "text": "Tienes media ",
+        "userDefined": false
+      },
+      {
+        "text": "naranja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213993
+  },
+  {
+    "id": "83457a32-5796-4265-b2c7-f8638ba4d1f4",
+    "data": [
+      {
+        "text": "Quién es tu novio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213993
+  },
+  {
+    "id": "a241c717-d024-4d13-acea-98a46a779702",
+    "data": [
+      {
+        "text": "Tienes novio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527213539
+  }
+]

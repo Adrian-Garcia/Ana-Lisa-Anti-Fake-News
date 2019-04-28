@@ -1,0 +1,141 @@
+[
+  {
+    "id": "c27379a3-f699-46a0-8d1a-e4bd95de2f32",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "30 millones",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "migrantes mexicanos",
+        "alias": "Mexicanos",
+        "meta": "@Mexicanos",
+        "userDefined": false
+      },
+      {
+        "text": " en USA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377783
+  },
+  {
+    "id": "e056a5f2-bf45-4a9b-b394-4a6cee6892c3",
+    "data": [
+      {
+        "text": "Cuantos ",
+        "userDefined": false
+      },
+      {
+        "text": "migrantes mexicanos",
+        "alias": "Mexicanos",
+        "meta": "@Mexicanos",
+        "userDefined": false
+      },
+      {
+        "text": " estan en ",
+        "userDefined": false
+      },
+      {
+        "text": "America",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377783
+  },
+  {
+    "id": "8cd7e623-22d5-4c07-9ff1-e2516ab3b234",
+    "data": [
+      {
+        "text": "Numero de ",
+        "userDefined": false
+      },
+      {
+        "text": "mexicanos",
+        "alias": "Mexicanos",
+        "meta": "@Mexicanos",
+        "userDefined": false
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados unidos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377783
+  },
+  {
+    "id": "9500fe18-7d99-4627-9e80-641cee95c3e6",
+    "data": [
+      {
+        "text": "Hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " alrededor de ",
+        "userDefined": false
+      },
+      {
+        "text": "30 000 000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "mexicanos",
+        "alias": "Mexicanos",
+        "meta": "@Mexicanos",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "EU",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377783
+  }
+]

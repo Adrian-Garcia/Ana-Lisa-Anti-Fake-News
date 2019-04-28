@@ -1,0 +1,56 @@
+{
+  "id": "91306df2-a04a-4f82-8fc8-65ed2a7d6d04",
+  "name": "Verificado: Ofensa Trump",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "42bb1abf-ab70-4f97-a822-a429c1c1bb5e",
+          "required": true,
+          "dataType": "@Trump",
+          "name": "Trump",
+          "value": "$Trump",
+          "isList": false
+        },
+        {
+          "id": "71db4b1f-f8b2-4c48-9f93-371b9f22b64c",
+          "required": false,
+          "dataType": "@Mexicanos",
+          "name": "Mexicanos",
+          "value": "$Mexicanos",
+          "isList": false
+        },
+        {
+          "id": "53e5dc18-c5f2-4901-8121-d9198fb0ed38",
+          "dataType": "@Critica",
+          "name": "Critica",
+          "value": "$Critica",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El 16 de Mayo, Donald Trump llama \"animales\" a miembros de la Mara Salvatrucha. No a los mexicanos."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377999,
+  "fallbackIntent": false,
+  "events": []
+}

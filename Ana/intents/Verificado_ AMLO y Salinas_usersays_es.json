@@ -1,0 +1,294 @@
+[
+  {
+    "id": "d8ca8a5b-9430-4b5c-a674-13dd683aa88a",
+    "data": [
+      {
+        "text": "La foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " es real?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376980
+  },
+  {
+    "id": "12ba1144-07e8-4ef2-84a6-e96c4d15a593",
+    "data": [
+      {
+        "text": "Hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " conexión con ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528593220
+  },
+  {
+    "id": "ef8a2a1c-7d2f-442c-a78b-aba890d053f6",
+    "data": [
+      {
+        "text": "Existe ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376980
+  },
+  {
+    "id": "af77e514-f7e4-40ca-8b9c-7337734d7ce7",
+    "data": [
+      {
+        "text": "Foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528376980
+  },
+  {
+    "id": "9a5e1d1e-954c-4e22-ba0c-631057ff59a5",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "carlos salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " salieron ",
+        "userDefined": false
+      },
+      {
+        "text": "en una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " foto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376980
+  },
+  {
+    "id": "e0a4fdcc-42ef-4b3e-bd4d-1f62cdfbf957",
+    "data": [
+      {
+        "text": "La foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "salinas",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " existe_",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376980
+  },
+  {
+    "id": "4a321071-7fb9-4516-803b-ee22f9a838ff",
+    "data": [
+      {
+        "text": "¿La foto de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " junto a ",
+        "userDefined": false
+      },
+      {
+        "text": "Carlos Salinas de Gortari",
+        "alias": "Salinas",
+        "meta": "@Salinas",
+        "userDefined": false
+      },
+      {
+        "text": " es real?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376980
+  }
+]

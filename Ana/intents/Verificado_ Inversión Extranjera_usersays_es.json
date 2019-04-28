@@ -1,0 +1,372 @@
+[
+  {
+    "id": "289361a7-110f-4ba9-8a59-218633e3b247",
+    "data": [
+      {
+        "text": "Inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera a ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      },
+      {
+        "text": " por ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "9156d46b-1350-4aed-ae81-053f68ced0e4",
+    "data": [
+      {
+        "text": "Es cierto que la ",
+        "userDefined": false
+      },
+      {
+        "text": "inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera aumentó cuando ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " era ",
+        "userDefined": false
+      },
+      {
+        "text": "gobernante",
+        "alias": "Gobernante",
+        "meta": "@Gobernante",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "c0d039bf-ab88-41ac-9fdb-bfe7d6ff824b",
+    "data": [
+      {
+        "text": "Inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera en ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      },
+      {
+        "text": " en la gobernatura de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrés Manuel",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "4c54dbe8-40e2-4398-b778-ea70911cb397",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " y la ",
+        "userDefined": false
+      },
+      {
+        "text": "inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "f110c571-2662-47c2-9f6b-ffee57f657c5",
+    "data": [
+      {
+        "text": "Cuando ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " era ",
+        "userDefined": false
+      },
+      {
+        "text": "Jefe de Gobierno",
+        "alias": "Gobernante",
+        "meta": "@Gobernante",
+        "userDefined": false
+      },
+      {
+        "text": " aumentó la ",
+        "userDefined": false
+      },
+      {
+        "text": "inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "b17fd096-5ce7-412d-838a-ef80ba5414b4",
+    "data": [
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Obrador",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atraer ",
+        "userDefined": false
+      },
+      {
+        "text": "Inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera a la ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "2126d764-edc8-4019-8f02-e67ccf5f1045",
+    "data": [
+      {
+        "text": "Gobierno",
+        "alias": "Gobernante",
+        "meta": "@Gobernante",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " atrae ",
+        "userDefined": false
+      },
+      {
+        "text": "inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extrajera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "13d15500-9717-44e6-8455-ae82e513874e",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " trajo ",
+        "userDefined": false
+      },
+      {
+        "text": "inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " extranjera a la ",
+        "userDefined": false
+      },
+      {
+        "text": "CDMX",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  },
+  {
+    "id": "fbf51d01-dc3c-4226-a625-01f4971426ef",
+    "data": [
+      {
+        "text": "¿Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " atrajo el ",
+        "userDefined": false
+      },
+      {
+        "text": "57.8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "% de la ",
+        "userDefined": false
+      },
+      {
+        "text": "Inversión",
+        "alias": "Inversiones",
+        "meta": "@Inversiones",
+        "userDefined": false
+      },
+      {
+        "text": " Extranjera Directa a la ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudad de México",
+        "alias": "CDMX",
+        "meta": "@CDMX",
+        "userDefined": false
+      },
+      {
+        "text": " cuando fue ",
+        "userDefined": false
+      },
+      {
+        "text": "Jefe de Gobierno",
+        "alias": "Gobernante",
+        "meta": "@Gobernante",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528657489
+  }
+]

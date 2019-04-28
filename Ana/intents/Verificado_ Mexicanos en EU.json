@@ -1,0 +1,43 @@
+{
+  "id": "b31846ed-3482-4163-8227-1bef5e2ae6c5",
+  "name": "Verificado: Mexicanos en EU",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b93c6873-2ccf-47c4-9728-65a68646bf53",
+          "required": true,
+          "dataType": "@Mexicanos",
+          "name": "Mexicanos",
+          "value": "$Mexicanos",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "En estados unidos hay alrededor de 30 millones de personas de origen mexicanos menciona Pew Research Center"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528377783,
+  "fallbackIntent": false,
+  "events": []
+}

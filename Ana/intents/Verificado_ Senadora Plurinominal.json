@@ -1,0 +1,41 @@
+{
+  "id": "1c36a5be-d707-4abb-9581-9d9efc3b2a3c",
+  "name": "Verificado: Senadora Plurinominal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9ca36224-b7df-4b68-9967-86066f648dbb",
+          "required": false,
+          "dataType": "@NestoraSalgado",
+          "name": "NestoraSalgado",
+          "value": "$NestoraSalgado",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Según Verificado 2018, Nestora Salgado fue liberada en 2016 debido a que se concluyó que la acusada era inocente."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527008701,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7c458f04-53f2-432b-a667-75236c60ca6c",
+    "data": [
+      {
+        "text": "de dónde sacas la información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca2d5e44-2abf-48c0-b4fc-001bae23933a",
+    "data": [
+      {
+        "text": "Es enserio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527000833
+  },
+  {
+    "id": "234fc78f-c7df-40dc-a2c1-91994a7268fb",
+    "data": [
+      {
+        "text": "Dónde dice eso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527000833
+  },
+  {
+    "id": "720e5732-1d8f-4e94-bd26-63cb6633367a",
+    "data": [
+      {
+        "text": "de dónde obtienes esta información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5628879-a68c-46fa-8d89-9746cc9ca23c",
+    "data": [
+      {
+        "text": "¿Cómo sabes eso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001807
+  },
+  {
+    "id": "6deba2be-579f-4c48-b866-ecdce39e8c75",
+    "data": [
+      {
+        "text": "¿Quién dijo eso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527001807
+  },
+  {
+    "id": "4aa96abc-03fc-4d1f-a305-46bbd2c3f5bd",
+    "data": [
+      {
+        "text": "De donde sacas tu información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527000833
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Gobernante",
+    "synonyms": [
+      "Gobernante",
+      "Jefe de gobierno"
+    ]
+  },
+  {
+    "value": "Alcalde",
+    "synonyms": [
+      "Alcalde",
+      "Alcaldía"
+    ]
+  },
+  {
+    "value": "Presidencia",
+    "synonyms": [
+      "Presidencia",
+      "Presidente"
+    ]
+  },
+  {
+    "value": "Gobierno",
+    "synonyms": [
+      "Gobierno"
+    ]
+  }
+]

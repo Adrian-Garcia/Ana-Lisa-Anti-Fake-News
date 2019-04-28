@@ -1,0 +1,113 @@
+[
+  {
+    "id": "8e9d968f-9e8d-4386-a066-798ea7d568e7",
+    "data": [
+      {
+        "text": "Un presidente dura 6 años en el cargo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d69f410c-0aae-4e9e-8e10-d00fc534489a",
+    "data": [
+      {
+        "text": "Tiempo que se queda ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  },
+  {
+    "id": "cab0130f-5efb-44ba-bb86-263eeb9dacca",
+    "data": [
+      {
+        "text": "Periodo ",
+        "userDefined": false
+      },
+      {
+        "text": "de un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  },
+  {
+    "id": "1735fcf9-fd08-46c4-a8a7-529c26318b80",
+    "data": [
+      {
+        "text": "Cuanto dura ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  },
+  {
+    "id": "3ffc1d4e-acc4-4664-b90e-e735405138c2",
+    "data": [
+      {
+        "text": "Cuanto tiempo se queda el candidato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  },
+  {
+    "id": "448f7e93-3378-401c-b820-9e02d9b46646",
+    "data": [
+      {
+        "text": "Periodo de presidencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  },
+  {
+    "id": "90b35581-f360-4276-8d31-90bd745e765f",
+    "data": [
+      {
+        "text": "Tiempo de presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527212218
+  }
+]

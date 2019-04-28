@@ -1,0 +1,110 @@
+[
+  {
+    "id": "73852fef-c928-4928-89b1-83b82fba30b5",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "f3b4ba8a-6b3b-4d07-8de9-8d9f61a4da5e",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "2f676d71-bc48-47b2-88fd-c5744c3feca4",
+    "data": [
+      {
+        "text": "Platicame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "aaffc814-fcab-4cd6-8c27-668eed59aa0a",
+    "data": [
+      {
+        "text": "Que es ",
+        "userDefined": false
+      },
+      {
+        "text": "pan",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527634449
+  },
+  {
+    "id": "56c90bba-ffbc-47f3-bb72-a660dda69c17",
+    "data": [
+      {
+        "text": "Que significa ",
+        "userDefined": false
+      },
+      {
+        "text": "pan",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527634449
+  },
+  {
+    "id": "693df927-bc1f-434c-a0ef-d391c90c1dbf",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  }
+]

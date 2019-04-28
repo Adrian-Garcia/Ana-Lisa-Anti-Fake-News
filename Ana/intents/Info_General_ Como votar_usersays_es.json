@@ -1,0 +1,172 @@
+[
+  {
+    "id": "57f211a3-fe5a-49d2-a2eb-5dcf8d8e597b",
+    "data": [
+      {
+        "text": "Cómo debo marcar la ",
+        "userDefined": false
+      },
+      {
+        "text": "boleta",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8a78ad5c-1b6b-4349-8774-0b543ec3644b",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "marco",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "boleta",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264468
+  },
+  {
+    "id": "8d45d733-3a5c-4ba6-b3ce-c8d2bb0b0ba9",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "seleccionar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": true
+      },
+      {
+        "text": " al candidato que deseas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264312
+  },
+  {
+    "id": "c3e59f1b-39ec-4a70-9e65-78af9efd1f44",
+    "data": [
+      {
+        "text": "Como ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264312
+  },
+  {
+    "id": "e65f5a00-0f0c-476e-9591-a9a904a2502d",
+    "data": [
+      {
+        "text": "Como marcar el ",
+        "userDefined": false
+      },
+      {
+        "text": "voto",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "boleta",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528376332
+  },
+  {
+    "id": "ef0f7279-531c-44e9-8cbf-c262ae840c92",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264312
+  },
+  {
+    "id": "513c7a97-b476-4dac-8c93-b27741c4d20e",
+    "data": [
+      {
+        "text": "Cómo ",
+        "userDefined": false
+      },
+      {
+        "text": "escoger",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": true
+      },
+      {
+        "text": " al candidato que quiero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527264312
+  }
+]

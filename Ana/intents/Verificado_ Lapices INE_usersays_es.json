@@ -1,0 +1,231 @@
+[
+  {
+    "id": "27496a77-54cb-4b69-bc49-93d88df743aa",
+    "data": [
+      {
+        "text": "Seguridad de ",
+        "userDefined": false
+      },
+      {
+        "text": "lapices",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528295566
+  },
+  {
+    "id": "b8dad1ec-a72c-4dcb-957d-3546c57db46e",
+    "data": [
+      {
+        "text": "Se pueden borrar los ",
+        "userDefined": false
+      },
+      {
+        "text": "lapices",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": true
+      },
+      {
+        "text": " del INE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528295566
+  },
+  {
+    "id": "00a75bdd-dca5-4ffe-8267-bce460251ed4",
+    "data": [
+      {
+        "text": "Puedo lleva ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plumón",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": false
+      },
+      {
+        "text": " para borrar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377612
+  },
+  {
+    "id": "39fac959-5124-41a0-908c-ef414277b538",
+    "data": [
+      {
+        "text": "Tengo que llevar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plumón",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377612
+  },
+  {
+    "id": "4a13034e-4009-4bee-ad39-947b157f17f0",
+    "data": [
+      {
+        "text": "Uso ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pllumón para ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377612
+  },
+  {
+    "id": "ec0837ef-c363-4426-ad44-6d01e35b8b2c",
+    "data": [
+      {
+        "text": "Llevo ",
+        "userDefined": false
+      },
+      {
+        "text": "pluma",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "votar",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528295566
+  },
+  {
+    "id": "b235d426-b865-4c87-9c60-85235254d90a",
+    "data": [
+      {
+        "text": "Inseguridad de los lapices del INE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528295566
+  },
+  {
+    "id": "627c7f3f-dc88-411b-afb5-b33a31eecbe1",
+    "data": [
+      {
+        "text": "¿Los ",
+        "userDefined": false
+      },
+      {
+        "text": "lápices",
+        "alias": "Lapiz",
+        "meta": "@Lapiz",
+        "userDefined": true
+      },
+      {
+        "text": " del INE son ",
+        "userDefined": false
+      },
+      {
+        "text": "seguros",
+        "alias": "Seguridad",
+        "meta": "@Seguridad",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528295566
+  }
+]

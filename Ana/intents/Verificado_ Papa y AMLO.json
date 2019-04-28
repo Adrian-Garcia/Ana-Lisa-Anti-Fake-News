@@ -1,0 +1,65 @@
+{
+  "id": "6e72f374-4fb3-4f0a-9835-82bc0184c02d",
+  "name": "Verificado: Papa y AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2580a080-b99e-4aca-a76e-5633520ed9f0",
+          "required": false,
+          "dataType": "@Papa",
+          "name": "Papa",
+          "value": "$Papa",
+          "isList": false
+        },
+        {
+          "id": "1d2486be-9cb3-434c-bb94-2060c15e07e9",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "e086d446-0cf1-4482-9208-ca933c42a8a7",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO1",
+          "value": "$AMLO1",
+          "isList": false
+        },
+        {
+          "id": "a9d77e9e-e7d0-4823-9bb0-a026c03b03e6",
+          "required": false,
+          "dataType": "@Critica",
+          "name": "Critica",
+          "value": "$Critica",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El Papa Francisco no se ha pronunciado en contra de Andrés Manuel López Obrador"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528311331,
+  "fallbackIntent": false,
+  "events": []
+}

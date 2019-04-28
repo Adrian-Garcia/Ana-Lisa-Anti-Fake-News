@@ -1,0 +1,194 @@
+[
+  {
+    "id": "7b06d877-fa0f-486b-a3bf-87642f550d44",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "Pri",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      },
+      {
+        "text": " registra \"",
+        "userDefined": false
+      },
+      {
+        "text": "Yo Mero",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": true
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  },
+  {
+    "id": "7e0d3856-a55d-4a22-bc7a-d712833029fe",
+    "data": [
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " registra ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade 2018",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  },
+  {
+    "id": "0025d4b1-77f9-4608-9c69-c2ba80be3cf0",
+    "data": [
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " crea ",
+        "userDefined": false
+      },
+      {
+        "text": "yo mero",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  },
+  {
+    "id": "9ef6699c-162a-4eb7-a652-5f57b0675553",
+    "data": [
+      {
+        "text": "Es cierto que ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " registró Yo ",
+        "userDefined": false
+      },
+      {
+        "text": "Mero",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  },
+  {
+    "id": "670c4ff0-33a5-4711-a896-3bc9b142761c",
+    "data": [
+      {
+        "text": "Yo Mero",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": false
+      },
+      {
+        "text": " es de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  },
+  {
+    "id": "96404c94-4b1e-4531-ac63-3ebffcd9f92f",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "José Antonio",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade1",
+        "meta": "@Meade",
+        "userDefined": false
+      },
+      {
+        "text": " registró la ",
+        "userDefined": false
+      },
+      {
+        "text": "marca",
+        "alias": "Boleta",
+        "meta": "@Boleta",
+        "userDefined": false
+      },
+      {
+        "text": " \"Yo ",
+        "userDefined": false
+      },
+      {
+        "text": "Mero",
+        "alias": "YoMero",
+        "meta": "@YoMero",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528345201
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "78fdab2e-8fca-458e-8d5a-b84d43cdb302",
+    "data": [
+      {
+        "text": "Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "proponen",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " los candidatos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "be336b7d-8cd0-4288-bad5-882838c749e6",
+    "data": [
+      {
+        "text": "Cuáles son la ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "ed8e5bcc-6021-4b70-a5ff-1b2caccb4682",
+    "data": [
+      {
+        "text": "Cambios",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestos",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " por los candidatos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "2dbdd520-4775-4ceb-a7c6-0a36902f76eb",
+    "data": [
+      {
+        "text": "Cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "cambios",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "5ae8e054-f583-44bc-92fd-515037447b06",
+    "data": [
+      {
+        "text": "Cuales son las ",
+        "userDefined": false
+      },
+      {
+        "text": "propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de los candidatos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "3b1a60e8-c9ea-4775-a692-3a077fcff5f4",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " de todos los candidatos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "730a609e-da0e-4016-9f09-d8b3888c3b65",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiará",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528377505
+  },
+  {
+    "id": "ba2c676e-d65c-4f0c-8ab1-37f1d14c3645",
+    "data": [
+      {
+        "text": "Qué se ",
+        "userDefined": false
+      },
+      {
+        "text": "propone",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  },
+  {
+    "id": "320d15f9-be7f-44d7-a8cb-44e15960ff00",
+    "data": [
+      {
+        "text": "Propuestas",
+        "alias": "Propuestas",
+        "meta": "@Propuestas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527363736
+  }
+]
